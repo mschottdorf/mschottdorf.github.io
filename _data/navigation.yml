@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Research"
+    url: /markdown/
+
   - title: "Publications"
     url: /publications/
 
@@ -12,5 +15,4 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Data"
-    url: /markdown/
+
