@@ -9,6 +9,17 @@ redirect_from:
 # Projects
 Below is a brief, and slightly more technical summary of my different research topics.
 
-**Evolution of visual circuits**
+**Principles of neuronal computations**
+Low dimensional manifolds 
+
+**Synthetic neurobiology**
+
+**Evolution of the visual system**
 blabla
+
+**Primate vision: from the Retina to optimization principles in V1**
+
+
+
+
 

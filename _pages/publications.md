@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 **Preprints**
-- J. LaChance, T. J. Zajdel, <span style="color:green">**MS**</span>, J. L. Saunders, S. Dvali, C. Marshall, L. Seirup, D. A. Notterman, D. J. Cohen: [*"PVP1–The People’s Ventilator Project: A fully open, low-cost, pressure-controlled ventilator"*](https://www.medrxiv.org/content/10.1101/2020.10.02.20206037v1), medRxiv 2020.10.02.20206037 (2020)
+1. J. LaChance, T. J. Zajdel, <span style="color:green">**MS**</span>, J. L. Saunders, S. Dvali, C. Marshall, L. Seirup, D. A. Notterman, D. J. Cohen: [*"PVP1–The People’s Ventilator Project: A fully open, low-cost, pressure-controlled ventilator"*](https://www.medrxiv.org/content/10.1101/2020.10.02.20206037v1), medRxiv 2020.10.02.20206037 (2020)
 
-**Published articles**
+**Research articles**
 
 7. D. B. Nestvogel, R. M. Merino, C. L. Pinzon, <span style="color:green">**MS**</span>, C. Lee, C. Imig, N. Brose, J.-S. Rhee: [*"The Synaptic Vesicle Priming Protein CAPS-1 Shapes the Adaptation of Sensory Evoked Responses in Mouse Visual Cortex"*](https://www.sciencedirect.com/science/article/pii/S2211124720302060), Cell Reports 30: 3261-3269 (2020)
 6. M. Helmer, <span style="color:green">**MS**</span>, A. Neef, D. Battaglia: [*"Gender bias in peer-review"*](https://elifesciences.org/articles/21718), eLife 6: e21718 (2017)
@@ -17,6 +17,8 @@ author_profile: true
 3. <span style="color:green">**MS**</span>, S. Eglen, F. Wolf, W. Keil: [*"Can Retinal Ganglion Cell Dipoles Seed Iso-Orientation Domains in the Visual Cortex?"*](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0086139), PLoS ONE 9(1): e86139 (2014)
 2. <span style="color:green">**MS**</span>, B. Hofmann, E. Kätelhön, A. Offenhäusser, B. Wolfrum: [*"Frequency-dependent signal transfer at the interface between electrogenic cells and nanocavity electrodes"*](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.85.031917), Phys. Rev. E 85: 031917 (2012)
 1. B. Hofmann, E. Kätelhön, <span style="color:green">**MS**</span>, A. Offenhäusser, B. Wolfrum [*"Nanocavity electrode array for recording from electrogenic cells"*](https://pubs.rsc.org/en/content/articlelanding/2011/lc/c0lc00582g/unauth#!divAbstract), Lab on a Chip 11: 1054-1058 (2011)
+
+(*Co-first author)
 
 **Data publications**
 
@@ -39,9 +41,8 @@ author_profile: true
 **Theses**
 
 1. M Schottdorf: [The reconstitution of visual cortical feature selectivity in vitro](https://ediss.uni-goettingen.de/handle/11858/00-1735-0000-002E-E348-B?locale-attribute=en), PhD Thesis, Göttingen 2018
-2. M Schottdorf: [Geometry and Statistical Physics of Retinal Ganglion Cell Mosaics and Orientation Preference Maps](), MSc Thesis, Würzburg 2013
+2. M Schottdorf: [Geometry and Statistical Physics of Retinal Ganglion Cell Mosaics and Orientation Preference Maps](../files/msc_gottingen.pdf), MSc Thesis, Würzburg 2013
 3. M Schottdorf: [A nanochannel with an embedded transverse graphene tunneling electrode for molecular probing and as a future tool for DNA sequencing](https://rucore.libraries.rutgers.edu/rutgers-lib/36216/), MSc Thesis, New Brunswick 2011
-4. M Schottdorf: [Über nanofluidische Mikroelektrodenarrays als Zell/Chip-Interface](), BSc Thesis,Jülich 2010
+4. M Schottdorf: Über nanofluidische Mikroelektrodenarrays als Zell/Chip-Interface (german), BSc Thesis,Jülich 2010
 
-
-You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+You can also find my articles on [my Google Scholar profile](https://scholar.google.de/citations?user=m2d7JVwAAAAJ).
