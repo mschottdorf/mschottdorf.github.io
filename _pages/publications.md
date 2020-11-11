@@ -7,6 +7,7 @@ author_profile: true
 
 **Preprints**
 1. J. LaChance, T. J. Zajdel, <span style="color:green">**MS**</span>, J. L. Saunders, S. Dvali, C. Marshall, L. Seirup, D. A. Notterman, D. J. Cohen: [*"PVP1–The People’s Ventilator Project: A fully open, low-cost, pressure-controlled ventilator"*](https://www.medrxiv.org/content/10.1101/2020.10.02.20206037v1), medRxiv 2020.10.02.20206037 (2020)
+1. E. H. Nieh\*, <span style="color:green">**MS**</span>\*, N. W. Freeman, S.-A. Koay, L. Pinto, J. L. Gauthier, C. D. Brody, D. W. Tank: [*"Geometry of abstract learned knowledge in hippocampus"*](link), bioRxiv XXXX (2020)
 
 **Research articles**
 
@@ -43,6 +44,6 @@ author_profile: true
 1. M Schottdorf: [The reconstitution of visual cortical feature selectivity in vitro](https://ediss.uni-goettingen.de/handle/11858/00-1735-0000-002E-E348-B?locale-attribute=en), PhD Thesis, Göttingen 2018
 2. M Schottdorf: [Geometry and Statistical Physics of Retinal Ganglion Cell Mosaics and Orientation Preference Maps](../files/msc_gottingen.pdf), MSc Thesis, Würzburg 2013
 3. M Schottdorf: [A nanochannel with an embedded transverse graphene tunneling electrode for molecular probing and as a future tool for DNA sequencing](https://rucore.libraries.rutgers.edu/rutgers-lib/36216/), MSc Thesis, New Brunswick 2011
-4. M Schottdorf: Über nanofluidische Mikroelektrodenarrays als Zell/Chip-Interface (german), BSc Thesis,Jülich 2010
+4. M Schottdorf: Über nanofluidische Mikroelektrodenarrays als Zell/Chip-Interface (german), BSc Thesis, Jülich 2010
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.de/citations?user=m2d7JVwAAAAJ).

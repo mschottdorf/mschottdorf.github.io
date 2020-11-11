@@ -19,7 +19,6 @@ Link to pdf.
 
 - Otto-Hahn-Medal of the Max-Planck Society 2018
 - Boehringer Ingelheim Fonds PhD Fellowship 2013-2015
-- Fellow of the Graduate Program FOKUS Physik "Elite Network of Bavaria" 2010-2012
 - Max Weber scholarship in the German National Academic Foundation (top 0.5% of students) 2009-2013
 
 **Academic Involvement**
