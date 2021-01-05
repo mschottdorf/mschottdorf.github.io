@@ -13,3 +13,4 @@ I'm not teaching at the moment, but some of these projects originated in the con
 
 2. An event-based neural network simulator for the arduino called [Spikeduino](https://github.com/mschottdorf/Spikeduino).
 
+
