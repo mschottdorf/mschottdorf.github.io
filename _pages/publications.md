@@ -7,11 +7,11 @@ author_profile: true
 
 **Preprints**
 1. J. LaChance, T. J. Zajdel, <span style="color:green">**MS**</span>, J. L. Saunders, S. Dvali, C. Marshall, L. Seirup, D. A. Notterman, D. J. Cohen: [*"PVP1–The People’s Ventilator Project: A fully open, low-cost, pressure-controlled ventilator"*](https://www.medrxiv.org/content/10.1101/2020.10.02.20206037v1), medRxiv 2020.10.02.20206037 (2020)
-1. E. H. Nieh\*, <span style="color:green">**MS**</span>\*, N. W. Freeman, S.-A. Koay, L. Pinto, J. L. Gauthier, C. D. Brody, D. W. Tank: [*"Geometry of abstract learned knowledge in hippocampus"*](link), bioRxiv XXXX (2020)
 
 **Research articles**
 
-7. D. B. Nestvogel, R. M. Merino, C. L. Pinzon, <span style="color:green">**MS**</span>, C. Lee, C. Imig, N. Brose, J.-S. Rhee: [*"The Synaptic Vesicle Priming Protein CAPS-1 Shapes the Adaptation of Sensory Evoked Responses in Mouse Visual Cortex"*](https://www.sciencedirect.com/science/article/pii/S2211124720302060), Cell Reports 30: 3261-3269 (2020)
+8. C. L. A. Ho\*, R. Zimmermann\*, J.D.F. Weidinger, M. Prsa, <span style="color:green">**MS**</span>, S. Merlin, T. Okamoto, K. Ikezoe, F. Pifferi, F. Aujard, A. Angelucci, F. Wolf, D. Huber: [*"Orientation Preference Maps in Microcebus murinus Reveal Size-Invariant Design Principles in Primate Visual Cortex"*](https://www.sciencedirect.com/science/article/pii/S0960982220317383), Current Biology 31: 1-9 (2021)
+7. D.B. Nestvogel, R.M. Merino, C.L. Pinzon, <span style="color:green">**MS**</span>, C. Lee, C. Imig, N. Brose, J.-S. Rhee: [*"The Synaptic Vesicle Priming Protein CAPS-1 Shapes the Adaptation of Sensory Evoked Responses in Mouse Visual Cortex"*](https://www.sciencedirect.com/science/article/pii/S2211124720302060), Cell Reports 30: 3261-3269 (2020)
 6. M. Helmer, <span style="color:green">**MS**</span>, A. Neef, D. Battaglia: [*"Gender bias in peer-review"*](https://elifesciences.org/articles/21718), eLife 6: e21718 (2017)
 5. R. Samhaber\*, <span style="color:green">**MS**</span>\*, A. El Hady\*, K. Bröking, A. Daus, C. Thielemann, W. Stühmer, F. Wolf: [*"Growing neuronal islands on multi-electrode arrays using an Accurate Positioning-µCP device"*](https://www.sciencedirect.com/science/article/abs/pii/S0165027015003556), J. Neurosc. Methods 257(1): 194-203 (2016)
 4. <span style="color:green">**MS**</span>\*, W. Keil\*, D. Coppola, L. White, F. Wolf: [*"Random wiring, ganglion cell mosaics, and the functional architecture of the visual cortex"*](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004602), PLoS Comp. Bio. 11(11): e1004602 (2015)
@@ -26,7 +26,7 @@ author_profile: true
 1. R. Samhaber\*, <span style="color:green">**MS**</span>\*, A. El Hady\*, K. Bröking, A. Daus, C. Thielemann, W. Stühmer, F. Wolf: [*"Construction and use of an accurate positioning-µCP device"*](https://gin.g-node.org/Manuel/Samhaber_Schottdorf_et_al_2016), https://doi.org/10.12751/g-node.1e7756 (2019)
 1. <span style="color:green">**MS**</span>, W. Keil, D. Coppola, L. White, F. Wolf: [*"A dataset of 151 visual cortical orientation preference maps from four species"*](https://gin.g-node.org/Manuel/Schottdorf_Keil_et_al_2015), https://doi.org/10.12751/g-node.b4820c (2019)
 
-**Conference proceedings**
+**Conference proceedings and selected poster**
 
 1. E. Nieh\*, <span style="color:green">**MS**</span>\* et al. : *"Geometric representation of abstract learned knowledge by neural manifolds in hippocampus"*, Cosyne 2020 in Denver, Colorado, USA, Feb 27- Mar 3 2020 
 2. <span style="color:green">**MS**</span>, J Vogel, H. Schrobsdorff, W. Stühmer, F. Wolf: *"Spontaneous emergence of structured responses in a random neural network in-vitro"*, SfN in San Diego, California, USA, Nov 12-16 2016
@@ -35,7 +35,7 @@ author_profile: true
 5. <span style="color:green">**MS**</span>, H. Schrobsdorff, W. Stühmer, F. Wolf: *"Computer generated holography for optogenetic modulation of neural network activity in-vitro"*, Maps 2015 in Strasbourg, France, Dec 7-9 2015
 6. <span style="color:green">**MS**</span>, W. Keil, J. D. Fl\'orez-Weidinger et al. : *"How did the evolution of color vision impact V1 functional architecture"*, Cosyne 2015 in Salt Lake City, Utah, USA, Mar 5-10 2013
 7. <span style="color:green">**MS**</span>, W. Stühmer, F. Wolf: *"Reconstituting the emergence of visual cortical feature selectivity in-vitro"*, Maps 2014 in Edinburgh, UK, July 28-29 2014
-8. <span style="color:green">**MS**</span>, S. J. Eglen, F. Wolf, W. Keil: *"Can retinal ganglion cell dipoles seed iso-orientation domains in the visual cortex?"*, Cosyne 2014 in Salt Lake City, Utah, USA, Feb 27 - Mar 4 2014
+8. <span style="color:green">**MS**</span>, S.J. Eglen, F. Wolf, W. Keil: *"Can retinal ganglion cell dipoles seed iso-orientation domains in the visual cortex?"*, Cosyne 2014 in Salt Lake City, Utah, USA, Feb 27 - Mar 4 2014
 9. L. Somers, <span style="color:green">**MS**</span>, M. Wanunu, E. Y. Andrei: *"Tunneling Currents through DNA Bases Tightly Constrained in a Fluid Channel"*, APS March meeting 2014 in Denver, Colorado, USA,  Mar 3-7 2014
 10. <span style="color:green">**MS**</span>, W. Keil, M. Schnabel, D. M. Coppola, S. Löwel, L. E. White, M. Kaschube, F. Wolf: *"Do orientation preference maps arise from hexagonal retinal ganglion cell mosaics?"*, Cosyne 2013 in Salt Lake City, Utah, USA, Feb 28 - Mar 5 2013
 

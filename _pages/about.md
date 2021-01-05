@@ -11,7 +11,7 @@ redirect_from:
 **About me**<br />
 Understanding system level functions, realized by the coordinated activity of large numbers of biological elements, constitutes one of the greatest and most exciting challenges to science in the 21st century.
 
-My research aim is to develop a principled understanding of such phenomena in the nervous system, and to link the coordinated activity of single neurons to our cognitive abilities.
+My research aim is to develop a principled understanding of such phenomena specifically in the nervous system, where it might allow to relate the coordinated activity of single neurons to our cognitive abilities.
 
 I am a postdoctoral researcher in the labs of [David Tank](https://pni.princeton.edu/faculty/david-tank) and [Carlos Brody](https://pni.princeton.edu/faculty/carlos-brody) at the [Princeton Neuroscience Institute](https://pni.princeton.edu/directory/manuel-schottdorf), making use of calcium-imaging and electrophysiology to study neuronal activity in mice in virtual reality. I am also part of the [BRAIN CoGS](https://www.braincogs.org/) team, a multi-lab collaboration to understand the brain-wide mechanisms of working memory. 
 
