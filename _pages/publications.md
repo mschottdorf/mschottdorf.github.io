@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 **Preprints**
+
+1. D. Suo, U. Ghai, E. Minasyan, P. Gradu, X. Chen, N. Agarwal, C. Zhang, K. Singh, J. LaChance, T. Zajdel, <span style="color:green">**MS**</span>, D. Cohen, E. Hazan: [*"Machine Learning for Medical Ventilator Control"*](https://arxiv.org/abs/2102.06779), arXviv 2102.06779 (2021)
+
 1. J. LaChance, T. J. Zajdel, <span style="color:green">**MS**</span>, J. L. Saunders, S. Dvali, C. Marshall, L. Seirup, D. A. Notterman, D. J. Cohen: [*"PVP1–The People’s Ventilator Project: A fully open, low-cost, pressure-controlled ventilator"*](https://www.medrxiv.org/content/10.1101/2020.10.02.20206037v1), medRxiv 2020.10.02.20206037 (2020)
 
 **Research articles**
