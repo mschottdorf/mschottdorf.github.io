@@ -26,7 +26,7 @@ author_profile: true
 (*Co-first author)
 
 **Data publications**
-1. <span style="color:green">**MS**</span>\, B. Lee: [*"Macaque retinal ganglion cell responses to natural movies in vivo."*](https://doi.gin.g-node.org/10.12751/g-node.xage77/), https://doi.gin.g-node.org/10.12751/g-node.xage77 (2021)
+1. <span style="color:green">**MS**</span>, B. Lee: [*"Macaque retinal ganglion cell responses to natural movies in vivo"*](https://doi.gin.g-node.org/10.12751/g-node.xage77/), https://doi.gin.g-node.org/10.12751/g-node.xage77 (2021)
 1. R. Samhaber\*, <span style="color:green">**MS**</span>\*, A. El Hady\*, K. Bröking, A. Daus, C. Thielemann, W. Stühmer, F. Wolf: [*"Construction and use of an accurate positioning-µCP device"*](https://gin.g-node.org/Manuel/Samhaber_Schottdorf_et_al_2016), https://doi.org/10.12751/g-node.1e7756 (2019)
 1. <span style="color:green">**MS**</span>, W. Keil, D. Coppola, L. White, F. Wolf: [*"A dataset of 151 visual cortical orientation preference maps from four species"*](https://gin.g-node.org/Manuel/Schottdorf_Keil_et_al_2015), https://doi.org/10.12751/g-node.b4820c (2019)
 

@@ -15,4 +15,3 @@ I'm not teaching at the moment, but some of these projects originated in the con
 
 
 
-
