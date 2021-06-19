@@ -16,8 +16,7 @@ A remarkable finding across brain areas is low-dimensional neuronal activity. Th
 
 ![Editing a markdown file for a talk](/files/manifold.jpg)
 
-
-<sub> Nieh\*, **MS**\* et al. in review <br/> **MS** et al. PLoS CB 2015</sub>
+<sub> Nieh\*, **MS**\* et al. Nature 2021 <br/> **MS** et al. PLoS CB 2015</sub>
 
 **2. Evolution, optimization principles, and biophysics of the visual system**
 
@@ -25,14 +24,14 @@ Considering the diversity with which brains have evolved, transformed, and adapt
 
 ![Editing a markdown file for a talk](/files/evo.jpg)
 
-<sub>**MS** & B. Lee in review <br/> Ho, Zimmermann, Weidinger, Prsa, **MS** et al. Current Biology 2021 <br/> Nestvogel, Merino, Pinzon, **MS** et al. Cell Reports 2020 <br/> **MS** et al. PLoS CB 2015 <br/> **MS** et al. PLoS ONE 2014 </sub> 
+<sub>**MS** & B. Lee J Phys 2021<br/> Ho, Zimmermann, Weidinger, Prsa, **MS** et al. Current Biology 2021 <br/> Nestvogel, Merino, Pinzon, **MS** et al. Cell Reports 2020 <br/> **MS** et al. PLoS CB 2015 <br/> **MS** et al. PLoS ONE 2014 </sub> 
 
 **3. Novel instrumentation and synthetic neurobiology**
 I also build novel tools and approaches to these questions. I have developed electrical, optical, and mechanical instrumentation, and during my PhD I have developed new methods for artifically manipulating connectomes, either by chronic patterned stimulation with LED arrays, or holography, and to assess the resulting gains and losses in function. Shown below is an overview of a holographic stimulation apparatus to produce orientation selectivity in neurons grown *in vitro*.
 
 ![New tools](/files/new_tools.jpg)
 
-<sub> M. Schottdorf, PhD Thesis <br> Samhaber\*, **MS**\* et al. J Neurosc Methods 2016 <br/> **MS** et al. Phys Rev E 2012 <br/> Hofmann, Kätelhön, **MS** et al. Lab on a Chip 2011 </sub>
+<sub> M. Schottdorf, PhD Thesis 2018<br> Samhaber\*, **MS**\* et al. J Neurosc Methods 2016 <br/> **MS** et al. Phys Rev E 2012 <br/> Hofmann, Kätelhön, **MS** et al. Lab on a Chip 2011 </sub>
 
 
 **4. Making the world a bit better**
