@@ -5,14 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Preprints / Submitted**
+**Research Articles**
 
-1. D. Suo, U. Ghai, E. Minasyan, P. Gradu, X. Chen, N. Agarwal, C. Zhang, K. Singh, J. LaChance, T. Zajdel, <span style="color:green">**MS**</span>, D. Cohen, E. Hazan: [*"Machine Learning for Medical Ventilator Control"*](https://arxiv.org/abs/2102.06779), arXviv 2102.06779 (2021)
-
-1. J. LaChance, T. J. Zajdel, <span style="color:green">**MS**</span>, J. L. Saunders, S. Dvali, C. Marshall, L. Seirup, D. A. Notterman, D. J. Cohen: [*"PVP1–The People’s Ventilator Project: A fully open, low-cost, pressure-controlled ventilator"*](https://www.medrxiv.org/content/10.1101/2020.10.02.20206037v1), medRxiv 2020.10.02.20206037 (2020)
-
-**Research articles**
-
+12. J. LaChance\*, <span style="color:green">**MS**</span>\*, T. J. Zajdel, J. L. Saunders, S. Dvali, C. Marshall, L. Seirup, I. Sammour, R. L. Chatburn, D. A. Notterman, D. J. Cohen: [*"PVP1–The People’s Ventilator Project: A fully
+open, low-cost, pressure-controlled ventilator research platform compatible with adult and pediatric uses"*](https://doi.org/10.1371/journal.pone.0266810), PLoS ONE 17(5): e0266810 (2022)
+11. D. Suo, U. Ghai, E. Minasyan, P. Gradu, X. Chen, N. Agarwal, C. Zhang, K. Singh, J. LaChance, T. Zajdel, <span style="color:green">**MS**</span>, D. Cohen, E. Hazan: [*"Machine Learning for Medical Ventilator Control"*](https://arxiv.org/abs/2102.06779), Machine Learning for Health (ML4H), available on arXiv: 2102.06779 (2022)
 10. E.H. Nieh\*, <span style="color:green">**MS**</span>\*, N. Freeman, R. Low, S. Lewallen, S.-A. Koay, L. Pinto, J. Gauthier, C.D. Brody, D.W. Tank: [*"Geometry of abstract learned knowledge in the hippocampus"*](https://www.nature.com/articles/s41586-021-03652-7), Nature 595: 80-84 (2021)
 9. <span style="color:green">**MS**</span>, B.B. Lee: [*"A quantitative description of macaque ganglion cell responses to natural scenes: the interplay of time and space"*](https://physoc.onlinelibrary.wiley.com/doi/abs/10.1113/JP281200), J. Physiology 599: 3169-3193 (2021)
 8. C.L.A. Ho\*, R. Zimmermann\*, J.D.F. Weidinger, M. Prsa, <span style="color:green">**MS**</span>, S. Merlin, T. Okamoto, K. Ikezoe, F. Pifferi, F. Aujard, A. Angelucci, F. Wolf, D. Huber: [*"Orientation Preference Maps in Microcebus murinus Reveal Size-Invariant Design Principles in Primate Visual Cortex"*](https://www.sciencedirect.com/science/article/pii/S0960982220317383), Current Biology 31: 1-9 (2021)

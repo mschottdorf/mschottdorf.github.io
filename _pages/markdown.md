@@ -40,7 +40,7 @@ I also believe that it important to continuously improve the scientific culture 
 
 ![New tools](/files/misc.jpg)
 
-<sub> LaChance, Zajdel, **MS** et al. medRxiv 2020 <br>Helmer, **MS** et al. eLife 2017  </sub>
+<sub> LaChance, **MS** et al. PLoS ONE 2022 <br>Helmer, **MS** et al. eLife 2017  </sub>
 
 
 
