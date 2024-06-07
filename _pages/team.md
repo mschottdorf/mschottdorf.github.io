@@ -13,7 +13,7 @@ feature_row:
   - image_path: /assets/team/picture1.jpg
     title: "Alice"
     excerpt: "The amazing **Alice**."
-    url: "#test-link"
+    url: "https://scholar.google.de/citations?user=m2d7JVwAAAAJ"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/team/picture2.jpg

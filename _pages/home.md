@@ -15,3 +15,9 @@ excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef 
 # Some title
 some text
 
+
+**Contact**<br />
+Dr. Manuel Schottdorf <br />
+Princeton Neuroscience Institute<br />
+Washington Rd.<br />
+Princeton, NJ 08540
