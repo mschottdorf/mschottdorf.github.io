@@ -11,10 +11,6 @@ header:
       url: "#test-link"
 excerpt: "Shapes go wheeeee"
 ---
-
-# Some title
-some text
-
 <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
 <script>
     // Set up scene, camera, and renderer

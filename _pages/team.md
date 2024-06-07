@@ -12,8 +12,8 @@ intro:
 
 feature_row_left:
   - image_path: /assets/team/picture1.jpg
-    title: "This is manu"
-    excerpt: "Left-aligned image centered with"
+    title: "Manuel Schottdorf, Ph.D."
+    excerpt: "I did my undergraduate studies in physics and philosophy at the University of Würzburg in Germany. I then obtained two Master degrees, one in 2011, working in condensed matter physics from Rutgers, and one in 2013, working in theoretical neuroscience in Göttingen. In 2018, I completed my PhD research at the Max Planck Institute for Dynamics and Self-Organization and the Max Planck Institute for Experimental Medicine in. During this time, I was supported by a Boehringer Ingelheim Fonds PhD Fellowship and I was awarded the Otto Hahn medal. I am also a recipient of a Burroughs Wellcome Career Award"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
