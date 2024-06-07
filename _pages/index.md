@@ -7,17 +7,13 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/splash/brain.jpg
   actions:
-    - label: "Download"
-      url: "#test-link"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+    - label: "Link to the Department"
+      url: "https://www.psych.udel.edu/"
+excerpt: "Welcome to the Neural Computation Laboratory, located the the Department for Psychological and Brain Sciences at the University of Delaware. We are a group of researchers who work towards understanding how knowledge changes how we perceive the world."
 ---
-
-# Some title
-some text
-
 
 **Contact**<br />
 Dr. Manuel Schottdorf <br />
-Princeton Neuroscience Institute<br />
-Washington Rd.<br />
-Princeton, NJ 08540
+Office: Wolf Hall <br />
+Laboratory:  <br />
+Newark, Delaware

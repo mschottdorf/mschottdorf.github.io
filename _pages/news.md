@@ -9,9 +9,8 @@ header:
   actions:
     - label: "Download"
       url: "#test-link"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+excerpt: "Lab nets"
 ---
 
-# Some title
-some text
+1. Opening our doors soon!
 
