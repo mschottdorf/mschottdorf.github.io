@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Home"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /
   - title: "Research"
     url: /research/
   - title: "Team"
@@ -12,5 +12,3 @@ main:
     url: /philosophy/
   - title: "News"
     url: /news/
-  # - title: "Sitemap"
-  #   url: /sitemap/
