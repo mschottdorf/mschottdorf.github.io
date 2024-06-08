@@ -9,7 +9,7 @@ header:
   actions:
     - label: "Google scholar"
       url: "https://scholar.google.de/citations?user=m2d7JVwAAAAJ&hl=en"
-excerpt: "Research articles
+excerpt: "Research articles"
 ---
 
 12. J. LaChance\*, <span style="color:green">**MS**</span>\*, T. J. Zajdel, J. L. Saunders, S. Dvali, C. Marshall, L. Seirup, I. Sammour, R. L. Chatburn, D. A. Notterman, D. J. Cohen: [*"PVP1–The People’s Ventilator Project: A fully
