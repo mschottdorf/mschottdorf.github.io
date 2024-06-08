@@ -6,13 +6,12 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/splash/brain.jpg
-actions:
-  - label: "Google scholar"
-    url: "https://scholar.google.de/citations?user=m2d7JVwAAAAJ&hl=en"
+  actions:
+    - label: "Google scholar"
+      url: "https://scholar.google.de/citations?user=m2d7JVwAAAAJ&hl=en"
+excerpt: "Research articles
 ---
 
-**Research Articles**
-<small>
 12. J. LaChance\*, <span style="color:green">**MS**</span>\*, T. J. Zajdel, J. L. Saunders, S. Dvali, C. Marshall, L. Seirup, I. Sammour, R. L. Chatburn, D. A. Notterman, D. J. Cohen: [*"PVP1–The People’s Ventilator Project: A fully
 open, low-cost, pressure-controlled ventilator research platform compatible with adult and pediatric uses"*](https://doi.org/10.1371/journal.pone.0266810), PLoS ONE 17(5): e0266810 (2022)
 11. D. Suo, U. Ghai, E. Minasyan, P. Gradu, X. Chen, N. Agarwal, C. Zhang, K. Singh, J. LaChance, T. Zajdel, <span style="color:green">**MS**</span>, D. Cohen, E. Hazan: [*"Machine Learning for Medical Ventilator Control"*](https://arxiv.org/abs/2102.06779), Machine Learning for Health (ML4H), available on arXiv: 2102.06779 (2022)
@@ -26,4 +25,3 @@ open, low-cost, pressure-controlled ventilator research platform compatible with
 3. <span style="color:green">**MS**</span>, S. Eglen, F. Wolf, W. Keil: [*"Can Retinal Ganglion Cell Dipoles Seed Iso-Orientation Domains in the Visual Cortex?"*](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0086139), PLoS ONE 9(1): e86139 (2014)
 2. <span style="color:green">**MS**</span>, B. Hofmann, E. Kätelhön, A. Offenhäusser, B. Wolfrum: [*"Frequency-dependent signal transfer at the interface between electrogenic cells and nanocavity electrodes"*](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.85.031917), Phys. Rev. E 85: 031917 (2012)
 1. B. Hofmann, E. Kätelhön, <span style="color:green">**MS**</span>, A. Offenhäusser, B. Wolfrum [*"Nanocavity electrode array for recording from electrogenic cells"*](https://pubs.rsc.org/en/content/articlelanding/2011/lc/c0lc00582g/unauth#!divAbstract), Lab on a Chip 11: 1054-1058 (2011)
-</small>
