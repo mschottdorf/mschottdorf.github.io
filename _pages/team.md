@@ -7,7 +7,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/splash/brain.jpg
 feature_row_left:
-  - image_path: /assets/team/manuel.jpg
+  - image_path: /assets/team/picture1.jpg
     title: "Manuel Schottdorf, Ph.D."
     excerpt: "Manuel is an Assistant Professor at the department of Department of Psychological and Brain Sciences at the University of Delaware. He earned an undergraduate degree in physics and philosophy and two Master degrees, one in 2011, working in condensed matter physics from Rutgers, and one in 2013, working in theoretical neuroscience in Göttingen. Manuel completed his PhD at the Max Planck Institute for Dynamics and Self-Organization and the Max Planck Institute for Experimental Medicine in 2018. He moved to the Princeton Neuroscience Institute in 2018 for his postdoc in the laboratories of David Tank and Carlos Brody. Manuel has won numerous awards for his scientific work, among them a Boehringer Ingelheim Fonds PhD Fellowship, an Otto Hahn medal of the Max Planck Society, and he currently holds a Burroughs Wellcome Fund's Career Award."
     url: "/assets/CV.pdf"
