@@ -9,8 +9,13 @@ header:
   actions:
     - label: "Google scholar"
       url: "https://scholar.google.de/citations?user=m2d7JVwAAAAJ&hl=en"
-excerpt: "Research articles"
+    - label: "Pubmed"
+      url: "https://www.ncbi.nlm.nih.gov/myncbi/manuel.schottdorf.1/bibliography/public/"
 ---
+
+14. Schottdorf M, Yu G, Walker EY. Data science and its future in large neuroscience collaborations. bioRxiv. 2024 Mar 25;. doi: 10.1101/2024.03.20.585936. PubMed PMID: 38585895; PubMed Central PMCID: PMC10996530. 
+
+13. Brown LS, Cho JR, Bolkan SS, Nieh EH, Schottdorf M, Tank DW, Brody CD, Witten IB, Goldman MS. Neural circuit models for evidence accumulation through choice-selective sequences. bioRxiv. 2023 Dec 27;. doi: 10.1101/2023.09.01.555612. PubMed PMID: 38234715; PubMed Central PMCID: PMC10793437
 
 12. J. LaChance\*, <span style="color:green">**MS**</span>\*, T. J. Zajdel, J. L. Saunders, S. Dvali, C. Marshall, L. Seirup, I. Sammour, R. L. Chatburn, D. A. Notterman, D. J. Cohen: [*"PVP1–The People’s Ventilator Project: A fully
 open, low-cost, pressure-controlled ventilator research platform compatible with adult and pediatric uses"*](https://doi.org/10.1371/journal.pone.0266810), PLoS ONE 17(5): e0266810 (2022)
