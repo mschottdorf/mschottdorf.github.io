@@ -9,7 +9,7 @@ header:
 feature_row_left:
   - image_path: /assets/team/manuel.jpg
     title: "Manuel Schottdorf, Ph.D."
-    excerpt: "Manuel is an Assistant Professor at the Department of Psychological and Brain Sciences. He earned an undergraduate degree in physics and philosophy. Manuel completed his PhD at the Max Planck Institute for Dynamics and Self-Organization and the Max Planck Institute for Experimental Medicine in 2018. He moved to the Princeton Neuroscience Institute to work with David Tank and Carlos Brody. Manuel has won numerous awards for his scientific work, among them a Boehringer Ingelheim Fonds PhD Fellowship, an Otto Hahn medal of the Max Planck Society, and he currently holds a Burroughs Wellcome Fund's Career Award."
+    excerpt: "Manuel is an Assistant Professor at the Department of Psychological and Brain Sciences. He studied physics and philosophy before completing a PhD at the Max Planck Institute for Dynamics and Self-Organization and the Max Planck Institute for Experimental Medicine in 2018. He then moved to the Princeton Neuroscience Institute to work with David Tank and Carlos Brody. Manuel has won numerous awards over the years, among them a Boehringer Ingelheim Fonds PhD Fellowship, an Otto Hahn medal of the Max Planck Society, and he currently holds a Burroughs Wellcome Fund's Career Award."
     url: "/assets/CV.pdf"
     btn_label: "Manuel's CV"
     btn_class: "btn--primary"
@@ -25,13 +25,13 @@ feature_row:
     excerpt: "The less amazing Bob."
     url: "#test-link"
     btn_label: "Read More"
-    btn_class: "btn--secondar"
+    btn_class: "btn--secondary"
   - image_path: /assets/team/picture3.jpg
     title: "Charlie"
     excerpt: "Adequate charly."
     url: "#test-link"
     btn_label: "Read More"
-    btn_class: "btn--primary"
+    btn_class: "btn--tertiary"
   
 ---
 
