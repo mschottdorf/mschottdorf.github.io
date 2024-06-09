@@ -25,8 +25,8 @@ feature_row:
 
 {% include feature_row id="feature_row_left" type="left" %}
 
-# Research questions
-1. We will identify the role of coordinated replay between Hippocampus and Visual Cortex over learning of abstract tasks.
+# Research projects
+1. We will identify the role of coordinated replay between Hippocampus and neocortex over learning of abstract tasks.
 1. We will identify the role of top-down inputs into Visual Cortex, and how these signals change sensory responses.
 1. Finally, we will explore the computational principles that use abstract and learned knowledge in sensory systems.
 
