@@ -17,21 +17,21 @@ feature_row_left:
 feature_row:
   - image_path: /assets/images/hpc_manifold.jpg
     title: "Neural Manifolds in the Hippocampus"
-    excerpt: "Description and link"
+    excerpt: "Hippocampus can combine physical and abstract variables into the same cognitive map, instantiated as a neural manifold."
     url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9549979/"
     btn_label: "Nieh*, Schottdorf* et al. Nature 2021"
     btn_class: "btn--secondary"
   - image_path: /assets/images/primate_ret.jpg
     title: "Primate visual processing"
-    excerpt: ""
+    excerpt: "Retinal responses to natural scenes in macaque monkeys are primarily driven by temporal variations though eye movements and gaze shifts."
     url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8998785/"
     btn_label: "Schottdorf & Lee J Phys 2021"
     btn_class: "btn--secondary"
   - image_path: /assets/images/evo.jpg
     title: "Mammalian visual circuits"
-    excerpt: "Evo stuff."
+    excerpt: "Visual cortical circuits were shaped by optimization principles on evolutionary time scales beginning in the earliest phases of mammalian ancestry."
     url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4648540/"
-    btn_label: "Schottdorf et al. PLOS CV 2015"
+    btn_label: "Schottdorf et al. PLOS CB 2015"
     btn_class: "btn--secondary"
 ---
 
