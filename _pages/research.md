@@ -20,10 +20,10 @@ feature_row:
   - image_path: /assets/team/picture1.jpg
     title: "Virtual Reality"
     excerpt: "We train mice to explore virtual reality mazes"
-  - image_path: /assets/team/picture2.jpg
+  - image_path: /assets/manifoldanimation.html
     title: "Microscopy"
     excerpt: "While measuring neural activity with microscopy"
-  - image_path: /assets/team/picture3.jpg
+  - image_path: /assets/manifoldanimation.js
     title: "Electrophysiology"
     excerpt: "And electrophysiology"
   - image_path: /assets/team/picture1.jpg
