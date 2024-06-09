@@ -30,3 +30,5 @@ open, low-cost, pressure-controlled ventilator research platform compatible with
 3. <span style="color:green">**MS**</span>, S. Eglen, F. Wolf, W. Keil: [*"Can Retinal Ganglion Cell Dipoles Seed Iso-Orientation Domains in the Visual Cortex?"*](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0086139), PLoS ONE 9(1): e86139 (2014)
 2. <span style="color:green">**MS**</span>, B. Hofmann, E. Kätelhön, A. Offenhäusser, B. Wolfrum: [*"Frequency-dependent signal transfer at the interface between electrogenic cells and nanocavity electrodes"*](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.85.031917), Phys. Rev. E 85: 031917 (2012)
 1. B. Hofmann, E. Kätelhön, <span style="color:green">**MS**</span>, A. Offenhäusser, B. Wolfrum [*"Nanocavity electrode array for recording from electrogenic cells"*](https://pubs.rsc.org/en/content/articlelanding/2011/lc/c0lc00582g/unauth#!divAbstract), Lab on a Chip 11: 1054-1058 (2011)
+
+{: style="text-align: left; font-size:.5em; color: #6cf78c;"}
