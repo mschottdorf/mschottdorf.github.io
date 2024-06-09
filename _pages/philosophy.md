@@ -2,14 +2,6 @@
 title: "Philosophy"
 layout: splash
 permalink: /philosophy/
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/splash/brain.jpg
-  actions:
-    - label: "Download"
-      url: "#test-link"
-excerpt: ""
 ---
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
