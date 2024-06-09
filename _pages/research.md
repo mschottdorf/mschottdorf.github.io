@@ -10,14 +10,14 @@ excerpt: "How does learned knowledge change perception?"
 feature_row_left:
   - image_path: /assets/images/landscape_mouse.jpg
     title: "Is there a snake?"
-    excerpt: "Animals and people can learn to identify minute details from visual scenes. In humans, it is called perceptual learning. How does learned knowledge change visual processing in the brain? "
+    excerpt: "Animals and people can learn to identify minute details from visual scenes. In humans, this is called perceptual learning. How does learned knowledge change visual processing in the brain?"
 feature_row:
   - image_path: /assets/images/VRrig.jpg
     title: "Behavior in Virtual Reality"
     excerpt: "We train mice to perform tasks in virtual reality."
   - image_path: /assets/images/2pfocus.jpg
     title: "Neurophysiology"
-    excerpt: "We measuring neural activity with advanced neurophysiology techniques."
+    excerpt: "We measure neural activity with advanced recording techniques."
   - image_path: /assets/images/manifold.jpg
     title: "Computation"
     excerpt: "We assess neural activity with modern AI techniques."

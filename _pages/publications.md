@@ -31,5 +31,5 @@ open, low-cost, pressure-controlled ventilator research platform compatible with
 '
 ---
 
-{% include feature_row id="intro" type="left" %}
+{% include feature_row id="intro" type="center" %}
 
