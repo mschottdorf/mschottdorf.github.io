@@ -10,7 +10,7 @@ excerpt: "How does learned knowledge change perception?"
 feature_row_left:
   - image_path: /assets/images/landscape_mouse.jpg
     title: "Is there a snake?"
-    excerpt: "Animals and people can learn to identify minute details from visual scenes. In humans, this is called perceptual learning. How does learned knowledge change visual processing in the brain?"
+    excerpt: "Animals and people can learn to identify minute details from visual scenes. In humans, this is called perceptual learning. How does learned knowledge change visual processing in the brain? <br/><br/> To address this question, we persue three complimentary projects."
 feature_row:
   - image_path: /assets/images/VRrig.jpg
     title: "Behavior in Virtual Reality"
@@ -24,6 +24,11 @@ feature_row:
 ---
 
 {% include feature_row id="feature_row_left" type="left" %}
+
+# Research questions
+1. We will identify the role of coordinated replay between Hippocampus and Visual Cortex over learning of abstract tasks and explore how cortical computations become task aligned.
+1. We will identify the role of top-down inputs into Visual Cortex, and how these top-down signals become integrated into sensory responses.
+1. Finally, we will explore the computational principles that unfold in sensory systems as animals use abstract and learned knowledge. 
 
 # Techniques we employ
 {% include feature_row %}
