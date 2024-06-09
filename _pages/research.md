@@ -6,14 +6,30 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/splash/brain.jpg
-excerpt: "What are common organizing principles of neuronal dynamics, and how do they relate to the information processing abilities of the nervous system?"
+excerpt: "How does learned knowledge change perception?"
+feature_row_left:
+  - image_path: /assets/team/picture1.jpg
+    title: "Neural manifolds"
+    excerpt: "We persue this question in mice, that we train to perform 
+    complex tasks in virtual reality, while recording neural activity 
+    from large numbers of cells with single-cell resolution. We make 
+    sense of these data, we use techniques from machine learning and 
+    AI, building on well-established theories in psychology and 
+    cognitive science."
+feature_row:
+  - image_path: /assets/team/picture1.jpg
+    title: "Virtual Reality"
+    excerpt: "We train mice to explore virtual reality mazes"
+  - image_path: /assets/team/picture2.jpg
+    title: "Microscopy"
+    excerpt: "While measuring neural activity with microscopy"
+  - image_path: /assets/team/picture3.jpg
+    title: "Electrophysiology"
+    excerpt: "And electrophysiology"
+  - image_path: /assets/team/picture1.jpg
+    title: "Computation"
 ---
 
-# Some title
+{% include feature_row id="feature_row_left" type="left" %}
+{% include feature_row %}
 
-We also build novel tools and approaches to these questions. I have developed electrical, optical, and mechanical instrumentation, and during my PhD I have developed new methods for artifically manipulating connectomes, either by chronic patterned stimulation with LED arrays, or holography, and to assess the resulting gains and losses in function. Shown below is an overview of a holographic stimulation apparatus to produce orientation selectivity in neurons grown *in vitro*.
-
-I also believe that it important to continuously improve the scientific culture as a whole, and to fulfill our responsibility as scientists to society. For example, I have worked on the identification of gender bias in the scientific community. I participate in community outreach, for example judging elementary school science or science festivals; the most recently the Philly Science Festival. During the Covid-19 pandemic, I have developed open-source medical technology. I also write (mostly anonymously) for Wikipedia.
-
-# Code
-Our code is available on github (including the code for this website).

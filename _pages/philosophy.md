@@ -11,6 +11,26 @@ header:
       url: "#test-link"
 excerpt: "Shapes go wheeeee"
 ---
+
+# Work in the Neural Computational Lab
+
+Our first duty is to the truth. That requires a willingnes to learn, to adapt, and to communicate. We share our results regularly, either in peronal meetings or our lab meeting. 
+
+You need excitement about the science itself, and a willingness to learn. Everything else follows.
+
+# Manuel's lab advising statement
+
+If you decide to join the lab, I will train you on all aspects of the experiment. For example, you can learn how to build a Virtual Reality setup from styrofoam parts, paints, and 3D printing. how to assemble your own microscope from lenses and mirrors, and your own electronics to control and record data.
+I believe that good science is rooted in a detailed understanding of tools and methods.
+
+We also build novel tools and approaches to these questions. I have developed electrical, optical, and mechanical instrumentation, and during my PhD I have developed new methods for artifically manipulating connectomes, either by chronic patterned stimulation with LED arrays, or holography, and to assess the resulting gains and losses in function. Shown below is an overview of a holographic stimulation apparatus to produce orientation selectivity in neurons grown *in vitro*.
+
+I also believe that it important to continuously improve the scientific culture as a whole, and to fulfill our responsibility as scientists to society. For example, I have worked on the identification of gender bias in the scientific community. I participate in community outreach, for example judging elementary school science or science festivals; the most recently the Philly Science Festival. During the Covid-19 pandemic, I have developed open-source medical technology. I also write (mostly anonymously) for Wikipedia.
+
+# Code
+Our code is available on github (including the code for this website).
+
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
 <script>
     // Set up scene, camera, and renderer
