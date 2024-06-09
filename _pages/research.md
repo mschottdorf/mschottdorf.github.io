@@ -24,5 +24,9 @@ feature_row:
 ---
 
 {% include feature_row id="feature_row_left" type="left" %}
+
+# Our lab's interests
+
+# Techniques we employ
 {% include feature_row %}
 
