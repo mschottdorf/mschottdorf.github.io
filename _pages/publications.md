@@ -13,59 +13,7 @@ header:
       url: "https://www.ncbi.nlm.nih.gov/myncbi/manuel.schottdorf.1/bibliography/public/"
 ---
 
- <div class="container">
-  <img src="/images.VRrig.jpg" alt="Snow" style="width:100%;">
-  <div class="bottom-left">Bottom Left</div>
-  <div class="top-left">Top Left</div>
-  <div class="top-right">Top Right</div>
-  <div class="bottom-right">Bottom Right</div>
-  <div class="centered">Centered</div>
-</div> 
-
- /* Container holding the image and the text */
-.container {
-  position: relative;
-  text-align: center;
-  color: white;
-}
-
-/* Bottom left text */
-.bottom-left {
-  position: absolute;
-  bottom: 8px;
-  left: 16px;
-}
-
-/* Top left text */
-.top-left {
-  position: absolute;
-  top: 8px;
-  left: 16px;
-}
-
-/* Top right text */
-.top-right {
-  position: absolute;
-  top: 8px;
-  right: 16px;
-}
-
-/* Bottom right text */
-.bottom-right {
-  position: absolute;
-  bottom: 8px;
-  right: 16px;
-}
-
-/* Centered text */
-.centered {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-} 
-
-{: style="text-align: center; font-size:1em; color: #f78c6c;"}
+{: style="text-align: left; font-size:.5em; color: #f78c6c;"}
 
 14. Schottdorf M, Yu G, Walker EY. Data science and its future in large neuroscience collaborations. bioRxiv. 2024 Mar 25;. doi: 10.1101/2024.03.20.585936. PubMed PMID: 38585895; PubMed Central PMCID: PMC10996530. 
 13. Brown LS, Cho JR, Bolkan SS, Nieh EH, Schottdorf M, Tank DW, Brody CD, Witten IB, Goldman MS. Neural circuit models for evidence accumulation through choice-selective sequences. bioRxiv. 2023 Dec 27;. doi: 10.1101/2023.09.01.555612. PubMed PMID: 38234715; PubMed Central PMCID: PMC10793437
