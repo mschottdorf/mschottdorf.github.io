@@ -14,13 +14,13 @@ feature_row_left:
 feature_row:
   - image_path: /assets/images/VRrig.jpg
     title: "Virtual Reality"
-    excerpt: "We explore this question in virtual reality."
+    excerpt: "We train mice to perform tasks in virtual reality."
   - image_path: /assets/images/2pfocus.jpg
     title: "Microscopy"
-    excerpt: "We measuring neural activity with advanced microscopy"
-  - image_path: /assets/images/npx_implant.jpg
-    title: "Electrophysiology"
-    excerpt: "And electrophysiology."
+    excerpt: "We measuring neural activity with advanced neurophysiology techniques."
+  - image_path: /assets/images/manifold.jpg
+    title: "Computation"
+    excerpt: "We assess neural activity with modern AI techniques."
 ---
 
 {% include feature_row id="feature_row_left" type="left" %}
