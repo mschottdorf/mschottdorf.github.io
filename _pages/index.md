@@ -12,7 +12,7 @@ feature_row_left:
     title: ""
     excerpt: "Animals are capable of amazing feats of reasoning and planning. If you ever had mice in your kitchen, you will know what we are talking about! How do they do that? And how are these processes instantiated by the coordinated activity of single neurons?<br/><br/>
     In the Neural Computation Laboratory, we persue this question with mice that learn to solve complex problems in virtual reality. We use advanced microscopy and electrophysiology combined with modern AI.<br/><br/>
-    If you are interested in our work, get in touch!
+    <center>If you are interested in our work, get in touch!</center>
     "
 feature_row:
   - image_path: /assets/images/hpc_manifold.jpg

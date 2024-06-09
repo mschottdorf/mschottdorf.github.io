@@ -17,15 +17,13 @@ feature_row:
     excerpt: "We train mice to perform tasks in virtual reality."
   - image_path: /assets/images/2pfocus.jpg
     title: "Neurophysiology"
-    excerpt: "We measure neural activity with advanced recording techniques."
+    excerpt: "We measure and manipulate neural activity with advanced techniques."
   - image_path: /assets/images/manifold.jpg
     title: "Computation"
-    excerpt: "We assess neural activity with modern AI techniques."
+    excerpt: "We analyze neural activity patterns through artificial intelligence and machine learning."
 ---
 
 {% include feature_row id="feature_row_left" type="left" %}
-
-# Our lab's interests
 
 # Techniques we employ
 {% include feature_row %}
