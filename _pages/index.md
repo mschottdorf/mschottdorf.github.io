@@ -11,7 +11,7 @@ feature_row_left:
   - image_path: /assets/images/thinking_mouse.jpg
     title: ""
     excerpt: "Animals are capable of amazing feats of reasoning and planning. If you ever had mice in your kitchen, you will know what we are talking about! How do they do that? And how are these processes instantiated by the coordinated activity of single neurons?<br/><br/>
-    In the Neural Computation Laboratory, we persue this question with mice that learn to solve complex problems in virtual reality using computational models combined with advanced microscopy and electrophysiology.<br/><br/>
+    In the Neural Computation Laboratory, we persue this question with mice that learn to solve complex problems in virtual reality. We use advanced microscopy and electrophysiology combined with modern AI.<br/><br/>
     If you are interested in our work, get in touch!
     "
 ---

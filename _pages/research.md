@@ -8,26 +8,19 @@ header:
   overlay_image: /assets/splash/brain.jpg
 excerpt: "How does learned knowledge change perception?"
 feature_row_left:
-  - image_path: /assets/team/picture1.jpg
-    title: "Neural manifolds"
-    excerpt: "We persue this question in mice, that we train to perform 
-    complex tasks in virtual reality, while recording neural activity 
-    from large numbers of cells with single-cell resolution. We make 
-    sense of these data, we use techniques from machine learning and 
-    AI, building on well-established theories in psychology and 
-    cognitive science."
+  - image_path: /assets/images/landscape_mouse.jpg
+    title: "Is there a snake?"
+    excerpt: "Animals and people can learn to identify minute details from visual scenes. In humans, it is called perceptual learning. How does learned knowledge change visual processing in the brain? "
 feature_row:
-  - image_path: /assets/team/picture1.jpg
+  - image_path: /assets/images/VRrig.jpg
     title: "Virtual Reality"
-    excerpt: "We train mice to explore virtual reality mazes"
-  - image_path: /assets/manifoldanimation.html
+    excerpt: "We explore this question in virtual reality."
+  - image_path: /assets/images/2pfocus.jpg
     title: "Microscopy"
-    excerpt: "While measuring neural activity with microscopy"
-  - image_path: /assets/manifoldanimation.js
+    excerpt: "We measuring neural activity with advanced microscopy"
+  - image_path: /assets/images/npx_implant.jpg
     title: "Electrophysiology"
-    excerpt: "And electrophysiology"
-  - image_path: /assets/team/picture1.jpg
-    title: "Computation"
+    excerpt: "And electrophysiology."
 ---
 
 {% include feature_row id="feature_row_left" type="left" %}
