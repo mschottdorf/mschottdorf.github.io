@@ -11,12 +11,10 @@ header:
       url: "https://scholar.google.de/citations?user=m2d7JVwAAAAJ&hl=en"
     - label: "Pubmed"
       url: "https://www.ncbi.nlm.nih.gov/myncbi/manuel.schottdorf.1/bibliography/public/"
----
-
+intro: 
+  - excerpt: '
 14. Schottdorf M, Yu G, Walker EY. Data science and its future in large neuroscience collaborations. bioRxiv. 2024 Mar 25;. doi: 10.1101/2024.03.20.585936. PubMed PMID: 38585895; PubMed Central PMCID: PMC10996530. 
-
 13. Brown LS, Cho JR, Bolkan SS, Nieh EH, Schottdorf M, Tank DW, Brody CD, Witten IB, Goldman MS. Neural circuit models for evidence accumulation through choice-selective sequences. bioRxiv. 2023 Dec 27;. doi: 10.1101/2023.09.01.555612. PubMed PMID: 38234715; PubMed Central PMCID: PMC10793437
-
 12. J. LaChance\*, <span style="color:green">**MS**</span>\*, T. J. Zajdel, J. L. Saunders, S. Dvali, C. Marshall, L. Seirup, I. Sammour, R. L. Chatburn, D. A. Notterman, D. J. Cohen: [*"PVP1–The People’s Ventilator Project: A fully
 open, low-cost, pressure-controlled ventilator research platform compatible with adult and pediatric uses"*](https://doi.org/10.1371/journal.pone.0266810), PLoS ONE 17(5): e0266810 (2022)
 11. D. Suo, U. Ghai, E. Minasyan, P. Gradu, X. Chen, N. Agarwal, C. Zhang, K. Singh, J. LaChance, T. Zajdel, <span style="color:green">**MS**</span>, D. Cohen, E. Hazan: [*"Machine Learning for Medical Ventilator Control"*](https://arxiv.org/abs/2102.06779), Machine Learning for Health (ML4H), available on arXiv: 2102.06779 (2022)
@@ -28,5 +26,10 @@ open, low-cost, pressure-controlled ventilator research platform compatible with
 5. R. Samhaber\*, <span style="color:green">**MS**</span>\*, A. El Hady\*, K. Bröking, A. Daus, C. Thielemann, W. Stühmer, F. Wolf: [*"Growing neuronal islands on multi-electrode arrays using an Accurate Positioning-µCP device"*](https://www.sciencedirect.com/science/article/abs/pii/S0165027015003556), J. Neurosc. Methods 257(1): 194-203 (2016)
 4. <span style="color:green">**MS**</span>\*, W. Keil\*, D. Coppola, L. White, F. Wolf: [*"Random wiring, ganglion cell mosaics, and the functional architecture of the visual cortex"*](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004602), PLoS Comp. Bio. 11(11): e1004602 (2015)
 3. <span style="color:green">**MS**</span>, S. Eglen, F. Wolf, W. Keil: [*"Can Retinal Ganglion Cell Dipoles Seed Iso-Orientation Domains in the Visual Cortex?"*](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0086139), PLoS ONE 9(1): e86139 (2014)
-2. <span style="color:green">**MS**</span>, B. Hofmann, E. Kätelhön, A. Offenhäusser, B. Wolfrum: [*"Frequency-dependent signal transfer at the interface between electrogenic cells and nanocavity electrodes"*](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.85.031917), Phys. Rev. E 85: 031917 (2012)
+2. <span style="color:green">**MS**</span>, B. Hofmann, E. Kätelhön, A. Offenhäusser, B. Wolfrum: [*"Frequency-dependent signal transfer at the interface between electrogenic cells and nanocavity electrodes"*](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.85.031917), Phys. Rev. E 85: 031917 (2012)<br/>
 1. B. Hofmann, E. Kätelhön, <span style="color:green">**MS**</span>, A. Offenhäusser, B. Wolfrum [*"Nanocavity electrode array for recording from electrogenic cells"*](https://pubs.rsc.org/en/content/articlelanding/2011/lc/c0lc00582g/unauth#!divAbstract), Lab on a Chip 11: 1054-1058 (2011)
+'
+---
+
+{% include feature_row id="intro" type="left" %}
+

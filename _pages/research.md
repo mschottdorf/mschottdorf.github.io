@@ -13,10 +13,10 @@ feature_row_left:
     excerpt: "Animals and people can learn to identify minute details from visual scenes. In humans, it is called perceptual learning. How does learned knowledge change visual processing in the brain? "
 feature_row:
   - image_path: /assets/images/VRrig.jpg
-    title: "Virtual Reality"
+    title: "Behavior in Virtual Reality"
     excerpt: "We train mice to perform tasks in virtual reality."
   - image_path: /assets/images/2pfocus.jpg
-    title: "Microscopy"
+    title: "Neurophysiology"
     excerpt: "We measuring neural activity with advanced neurophysiology techniques."
   - image_path: /assets/images/manifold.jpg
     title: "Computation"
