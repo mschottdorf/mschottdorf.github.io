@@ -5,12 +5,13 @@ permalink: /team/
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
-  overlay_image: /assets/splash/brain1.jpg
+  overlay_image: /assets/splash/brain1a.jpg
 feature_row_left:
   - image_path: /assets/team/manuel.jpg
     title: "Manuel Schottdorf, Ph.D."
-    excerpt: "Manuel is an Assistant Professor at the Department of Psychological and Brain Sciences. He studied physics and philosophy before completing a PhD at the Max Planck Institute for Dynamics and Self-Organization and the Max Planck Institute for Experimental Medicine in 2018. He then moved to the Princeton Neuroscience Institute to work with David Tank and Carlos Brody. Manuel has won numerous awards over the years, among them a Boehringer Ingelheim Fonds PhD Fellowship, an Otto Hahn medal of the Max Planck Society, and he currently holds a Burroughs Wellcome Fund's Career Award. </br>
-    Find Manuel's full CV [here](/assets/CV.pdf)."
+    excerpt: "Manuel is an Assistant Professor at the Department of Psychological and Brain Sciences. He studied physics and philosophy before completing a PhD at the Max Planck Institute for Dynamics and Self-Organization and the Max Planck Institute for Experimental Medicine in 2018. He then moved to the Princeton Neuroscience Institute to work with David Tank and Carlos Brody. Manuel has won numerous awards over the years, among them a Boehringer Ingelheim Fonds PhD Fellowship, an Otto Hahn medal of the Max Planck Society, and he currently holds a Burroughs Wellcome Fund's Career Award.<br/>
+    In addition to science, Manuel's interests include labor rights; he was an organizing committee member for the postdoc union at Princeton.<br/>
+    Find Manuel's full CV [here](/assets/pdfs/CV_manuel_2024.pdf)."
 feature_row:
   - image_path: /assets/team/picture1.jpg
     title: "Alice"
