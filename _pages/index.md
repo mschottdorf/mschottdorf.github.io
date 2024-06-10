@@ -4,7 +4,7 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.3"
   overlay_image: /assets/splash/brain3.jpg
 excerpt: "Welcome to the *Perception in Action Laboratory* at the University of Delaware's Department of Psychological and Brain Sciences."
 feature_row_left:

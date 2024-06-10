@@ -4,8 +4,8 @@ layout: splash
 permalink: /resources/
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/splash/brain.jpg
+  overlay_filter: "0.8"
+  overlay_image: /assets/splash/brain2.jpg
 ---
 # Code
 1. Manuel's github: https://github.com/mschottdorf/
