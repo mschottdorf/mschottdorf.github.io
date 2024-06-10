@@ -14,14 +14,14 @@ header:
 ---
 
 # Preprints
-{: style="text-align: left; font-size:1.6em;"}
+{: style="text-align: left; font-size:1.5em;"}
 
 2. M. Schottdorf, G. Yu, E.Y. Walker: [*"Data science and its future in large neuroscience collaborations"*](https://www.biorxiv.org/content/10.1101/2024.03.20.585936v1), BioRxiv, 2024 Mar 25.
 1. L.S. Brown, J.R. Cho, S.S. Bolkan, E.H. Nieh, M. Schottdorf, D.W. Tank, C.D. Brody, I.B. Witten, M.S. Goldman: [*"Neural circuit models for evidence accumulation through choice-selective sequences"*](https://www.biorxiv.org/content/10.1101/2023.09.01.555612v4), BioRxiv, 2024 Feb 19. 
 {: style="text-align: left; font-size:.9em;"}
 
 # Journal articles
-{: style="text-align: left; font-size:1.6em;"}
+{: style="text-align: left; font-size:1.5em;"}
 
 12. J. LaChance\*, M. Schottdorf\*, T. J. Zajdel, J. L. Saunders, S. Dvali, C. Marshall, L. Seirup, I. Sammour, R. L. Chatburn, D. A. Notterman, D. J. Cohen: [*"PVP1–The People’s Ventilator Project: A fully
 open, low-cost, pressure-controlled ventilator research platform compatible with adult and pediatric uses"*](https://doi.org/10.1371/journal.pone.0266810), PLoS ONE 17(5): e0266810 (2022)
