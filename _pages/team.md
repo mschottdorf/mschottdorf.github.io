@@ -4,7 +4,7 @@ layout: splash
 permalink: /team/
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.3"
   overlay_image: /assets/splash/brain1.jpg
 feature_row_left:
   - image_path: /assets/team/manuel.jpg

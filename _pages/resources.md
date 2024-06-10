@@ -4,7 +4,7 @@ layout: splash
 permalink: /resources/
 header:
   overlay_color: "#000"
-  overlay_filter: "0.8"
+  overlay_filter: "0.3"
   overlay_image: /assets/splash/brain2.jpg
 ---
 # Code
