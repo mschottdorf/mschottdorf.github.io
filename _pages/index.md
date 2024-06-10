@@ -5,13 +5,13 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/splash/brain.jpg
-excerpt: "Welcome to the *Neural Computation Laboratory* at the University of Delaware's Department of Psychological and Brain Sciences."
+  overlay_image: /assets/splash/brain3.jpg
+excerpt: "Welcome to the *Perception in Action Laboratory* at the University of Delaware's Department of Psychological and Brain Sciences."
 feature_row_left:
   - image_path: /assets/images/thinking_mouse.jpg
     title: ""
     excerpt: "Animals are capable of amazing feats of reasoning and planning. If you ever had mice in your kitchen, you will know what we are talking about! How do they do that? And how are these processes instantiated by the coordinated activity of single neurons?<br/><br/>
-    In the Neural Computation Laboratory, we persue this question with mice that learn to solve complex problems in virtual reality. We use advanced microscopy and electrophysiology combined with modern AI.<br/><br/>
+    We persue this question with mice that learn to solve complex problems in virtual reality. In these animals, we use advanced microscopy, electrophysiology, and artificial intelligence to explore the neural computations underlying perception.<br/><br/>
     <center><b>If you are interested in our work, get in touch!</b></center>
     "
 feature_row:

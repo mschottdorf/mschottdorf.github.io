@@ -1,4 +1,6 @@
 # Lab Website
+Manuel's lab website, made with the Jekyll theme `Minimal Mistakes` 
+
 
 # Formatting guidelines:
 1. Images are jpg

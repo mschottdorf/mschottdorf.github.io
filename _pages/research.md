@@ -5,7 +5,7 @@ permalink: /research/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/splash/brain.jpg
+  overlay_image: /assets/splash/brain2.jpg
 excerpt: "How does learned knowledge change perception?"
 feature_row_left:
   - image_path: /assets/images/landscape_mouse.jpg

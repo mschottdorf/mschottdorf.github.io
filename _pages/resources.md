@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/splash/brain.jpg
 ---
 # Code
-1. Manuel's github:
+1. Manuel's github: https://github.com/mschottdorf/
 1. Schottdorf Lab github
 
 # FAQ
