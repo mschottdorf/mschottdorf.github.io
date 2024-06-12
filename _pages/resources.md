@@ -22,8 +22,3 @@ header:
 1. M. Schottdorf, W. Keil, D. Coppola, L. White, F. Wolf: [*"A dataset of 151 visual cortical orientation preference maps from four species"*](https://doi.org/10.12751/g-node.b4820c), G-Node 2019.
 {: style="text-align: left; font-size:.9em;"}
 
-# FAQ
-{: style="text-align: left; font-size:1.5em;"}
-...add text and link...
-{: style="text-align: left; font-size:.9em;"}
-
