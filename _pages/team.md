@@ -11,10 +11,7 @@ feature_row_left:
     title: "Manuel Schottdorf, Ph.D."
     excerpt: "Manuel studied physics and philosophy before completing a PhD at Max Planck in Germany. For his postdoc, he joined David Tank and Carlos Brody in Princeton. Manuel won numerous awards over the years, among them a Boehringer Ingelheim Fonds PhD Fellowship, an Otto Hahn medal, and a Burroughs Wellcome Fund's Career Award.<br/>
     &nbsp;&nbsp;&nbsp;In addition to science, Manuel's interests include labor rights and he was an organizing committee member for the postdoc union at Princeton.<br/><br/>
-    Find Manuel's full CV [here](/assets/pdfs/CV_manuel_2024.pdf).
-    url: "mailto: maschott-AT-udel.edu"
-    btn_label: "Send Manuel and email"
-    btn_class: "btn--secondary"
+    Find Manuel's full CV [here](/assets/pdfs/CV_manuel_2024.pdf). Send him an [e-mail](mailto:maschott-at-udel.edu)"
 feature_row:
   - image_path: /assets/team/picture1.jpg
     title: "Alice"
