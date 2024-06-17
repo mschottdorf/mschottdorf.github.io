@@ -1,14 +1,14 @@
 ---
-title: "Resources"
+title: ""
 layout: splash
 permalink: /resources/
 header:
-  overlay_color: "#000"
+  overlay_color: "#FFF"
   overlay_filter: "0"
   overlay_image: /assets/splash/brain3a.jpg
 ---
 # Code
-{: style="text-align: left; font-size:1.5em;"}
+{: style="text-align: left; font-size:1Resources.5em;"}
 
 1. Manuel's github: [https://github.com/mschottdorf/](https://github.com/mschottdorf/)
 {: style="text-align: left; font-size:.9em;"}
