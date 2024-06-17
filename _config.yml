@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Schottdorf Lab"
+title                    : ""
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : ""
+name                     : "Schottdorf Lab"
 description              : "Schottdorf Lab Website"
 url                      : https://mschottdorf.github.io # the base hostname & protocol
 baseurl                  : # the subpath of your site, e.g. "/blog"
