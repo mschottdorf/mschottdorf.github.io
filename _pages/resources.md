@@ -5,7 +5,7 @@ permalink: /resources/
 header:
   overlay_color: "#000"
   overlay_filter: "0"
-  overlay_image: /assets/splash/brain3.png
+  overlay_image: /assets/splash/brain3a.jpg
 ---
 # Code
 {: style="text-align: left; font-size:1.5em;"}
