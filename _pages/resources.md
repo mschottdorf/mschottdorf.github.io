@@ -4,8 +4,8 @@ layout: splash
 permalink: /resources/
 header:
   overlay_color: "#000"
-  overlay_filter: "0.3"
-  overlay_image: /assets/splash/brain5.jpg
+  overlay_filter: "0"
+  overlay_image: /assets/splash/brain3.png
 ---
 # Code
 {: style="text-align: left; font-size:1.5em;"}
