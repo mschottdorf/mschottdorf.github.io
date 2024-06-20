@@ -6,7 +6,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.3"
   overlay_image: /assets/splash/brain3.jpg
-excerpt: ""
+excerpt: " "
 feature_row_left:
   - image_path: /assets/images/thinking_mouse.jpg
     title: ""
