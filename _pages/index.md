@@ -1,18 +1,18 @@
 ---
-title: "Home"
+title: ""
 layout: splash
 permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
   overlay_image: /assets/splash/brain3.jpg
-excerpt: "Welcome to the *Perception in Action Laboratory* at the University of Delaware's Department of Psychological and Brain Sciences."
+excerpt: ""
 feature_row_left:
   - image_path: /assets/images/thinking_mouse.jpg
     title: ""
     excerpt: "Animals are capable of amazing feats of reasoning and planning. If you ever had mice in your kitchen, you will know what we are talking about! How do they do that? And how are these processes instantiated by the coordinated activity of single neurons?<br/><br/>
     We persue this question with mice that learn to solve complex problems in virtual reality. In these animals, we use advanced microscopy, electrophysiology, and artificial intelligence to explore the neural computations underlying perception.<br/><br/>
-    <center><b>If you are interested in our work, get in touch!</b></center>
+    <center><p style="color:MediumSeaGreen;">If you are interested in our work, get in touch!</p></center>
     "
 feature_row:
   - image_path: /assets/images/hpc_manifold.jpg
