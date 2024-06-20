@@ -4,7 +4,7 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#FFF"
-  overlay_filter: "0."
+  overlay_filter: "0"
   overlay_image: /assets/splash/brain3a.jpg
 excerpt: " "
 feature_row_left:
