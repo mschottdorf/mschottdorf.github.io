@@ -9,8 +9,8 @@ header:
 excerpt: " "
 feature_row_left:
   - image_path: /assets/images/landscape_mouse.jpg
-    title: "How does learned knowledge change perception?"
-    excerpt: "Animals and people can learn to identify minute details from visual scenes. In humans, this is called perceptual learning. How does learned knowledge change visual processing in the brain? <br/><br/> To address this question, we persue three complimentary projects."
+    title: ""
+    excerpt: "Animals and people can learn to identify minute details from visual scenes. In humans, this is called perceptual learning. How does learned knowledge change visual processing? <br/><br/> To address this question, we persue three complimentary projects."
 feature_row:
   - image_path: /assets/images/VRrig.jpg
     title: "Behavior in Virtual Reality"
