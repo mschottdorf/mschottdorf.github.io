@@ -3,9 +3,9 @@ title: "Team"
 layout: splash
 permalink: /team/
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.3"
-  overlay_image: /assets/splash/brain1a.jpg
+  overlay_color: "#FFF"
+  overlay_filter: "0"
+  overlay_image: /assets/splash/brain3a.jpg
 feature_row_left:
   - image_path: /assets/team/manuel.jpg
     title: "Manuel Schottdorf, Ph.D."

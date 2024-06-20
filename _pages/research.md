@@ -1,15 +1,15 @@
 ---
-title: "Research"
+title: ""
 layout: splash
 permalink: /research/
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.3"
-  overlay_image: /assets/splash/brain2.jpg
-excerpt: "How does learned knowledge change perception?"
+  overlay_color: "#FFF"
+  overlay_filter: "0"
+  overlay_image: /assets/splash/brain3a.jpg
+excerpt: " "
 feature_row_left:
   - image_path: /assets/images/landscape_mouse.jpg
-    title: "Is there a snake?"
+    title: "How does learned knowledge change perception?"
     excerpt: "Animals and people can learn to identify minute details from visual scenes. In humans, this is called perceptual learning. How does learned knowledge change visual processing in the brain? <br/><br/> To address this question, we persue three complimentary projects."
 feature_row:
   - image_path: /assets/images/VRrig.jpg
