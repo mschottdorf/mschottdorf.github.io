@@ -3,7 +3,7 @@ title: ""
 layout: splash
 permalink: /
 header:
-  overlay_color: "#000"
+  overlay_color: "#FFF"
   overlay_filter: "0."
   overlay_image: /assets/splash/brain3a.jpg
 excerpt: " "
