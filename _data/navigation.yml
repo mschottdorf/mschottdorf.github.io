@@ -6,7 +6,7 @@ main:
     url: /research/
   - title: "Team"
     url: /team/
-  - title: "Publications"
-    url: /publications/
   - title: "Resources"
     url: /resources/
+  - title: "Publications"
+    url: /publications/
