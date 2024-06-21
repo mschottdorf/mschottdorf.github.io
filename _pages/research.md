@@ -10,7 +10,7 @@ excerpt: " "
 feature_row_left:
   - image_path: /assets/images/landscape_mouse.jpg
     title: ""
-    excerpt: "Animals and people can learn to identify minute details from visual scenes. In humans, this is called perceptual learning. How does learned knowledge change visual processing? <br/><br/> To address this question, we persue three complimentary projects.<br/><br/>1. Exploring the role of coordinated replay between Hippocampus and Neocortex over learning of abstract tasks.<br/>2.Identifying the role of top-down inputs into Visual Cortex, and how these signals change sensory processing.<br/>3.Discovering the computational principles that use abstract and learned knowledge in sensory systems."
+    excerpt: "Animals and people can learn to identify minute details from visual scenes. In humans, this is called perceptual learning. How does learned knowledge change visual processing? To address this question, we persue three complimentary projects.<br/><br/>1. Explore coordinated replay between Hippocampus and Neocortex over learning<br/>2. Identify the role of top-down inputs into Visual Cortex.<br/>3. Discover the computations linking perception with learned knowledge."
 feature_row:
   - image_path: /assets/images/VRrig.jpg
     title: "Behavior in Virtual Reality"
