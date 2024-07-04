@@ -16,6 +16,7 @@ header:
 # Preprints
 {: style="text-align: left; font-size:1.5em;"}
 
+3. C. Gillon, C. Baker, R. Ly, E. Balzani, B. Brunton, M. Schottdorf, S. Ghosh, N. Dehghani: [*"ODIN: Open Data In Neurophysiology: Advancements, Solutions & Challenges"*](https://arxiv.org/abs/2407.00976), Arxiv, 2024 July 1.
 2. M. Schottdorf, G. Yu, E.Y. Walker: [*"Data science and its future in large neuroscience collaborations"*](https://www.biorxiv.org/content/10.1101/2024.03.20.585936v1), BioRxiv, 2024 Mar 25.
 1. L.S. Brown, J.R. Cho, S.S. Bolkan, E.H. Nieh, M. Schottdorf, D.W. Tank, C.D. Brody, I.B. Witten, M.S. Goldman: [*"Neural circuit models for evidence accumulation through choice-selective sequences"*](https://www.biorxiv.org/content/10.1101/2023.09.01.555612v4), BioRxiv, 2024 Feb 19. 
 {: style="text-align: left; font-size:.9em;"}
