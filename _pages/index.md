@@ -9,7 +9,7 @@ header:
 excerpt: " "
 feature_row:
   - image_path: /assets/images/hpc_manifold.jpg
-    title: "Neural Manifolds in the Hippocampus"
+    title: "Hippocampal neural manifolds"
     excerpt: "Hippocampus can combine physical and abstract variables into the same cognitive map, instantiated as a neural manifold."
     url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9549979/"
     btn_label: "Nieh*, Schottdorf* et al. Nature 2021"
@@ -22,7 +22,7 @@ feature_row:
     btn_class: "btn--secondary"
   - image_path: /assets/images/evo.jpg
     title: "Mammalian visual circuits"
-    excerpt: "Visual cortical circuits were shaped by optimization principles on evolutionary time scales beginning in the earliest phases of mammalian ancestry."
+    excerpt: "Visual cortical circuits were shaped by evolution, beginning in the earliest phases of mammalian ancestry."
     url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4648540/"
     btn_label: "Schottdorf et al. PLOS CB 2015"
     btn_class: "btn--secondary"
