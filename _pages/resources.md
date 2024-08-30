@@ -8,7 +8,9 @@ header:
 # Code
 {: style="text-align: left; font-size:1Resources.5em;"}
 
-1. Manuel's github: [https://github.com/mschottdorf/](https://github.com/mschottdorf/)
+1. Our lab on github: [https://github.com/SchottdorfLab](https://github.com/SchottdorfLab)
+
+2. Manuel's personal github: [https://github.com/mschottdorf/](https://github.com/mschottdorf/)
 {: style="text-align: left; font-size:.9em;"}
 
 # Data

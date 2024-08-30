@@ -15,16 +15,14 @@ header:
 
 # Preprints
 {: style="text-align: left; font-size:1.5em;"}
-
-4. S. Koukuntla, J.B. Julian, J. C. Kaminsky, M. Schottdorf, D.W. Tank, C.D. Brody, A.S. Charles: [*"Unsupervised discovery of the shared and private geometry in multi-view data"*](https://arxiv.org/abs/2408.12091), Arxiv, 2024 August 22.
-3. C. Gillon, C. Baker, R. Ly, E. Balzani, B. Brunton, M. Schottdorf, S. Ghosh, N. Dehghani: [*"ODIN: Open Data In Neurophysiology: Advancements, Solutions & Challenges"*](https://arxiv.org/abs/2407.00976), Arxiv, 2024 July 1.
-2. M. Schottdorf, G. Yu, E.Y. Walker: [*"Data science and its future in large neuroscience collaborations"*](https://www.biorxiv.org/content/10.1101/2024.03.20.585936v1), BioRxiv, 2024 Mar 25.
+3. S. Koukuntla, J.B. Julian, J. C. Kaminsky, M. Schottdorf, D.W. Tank, C.D. Brody, A.S. Charles: [*"Unsupervised discovery of the shared and private geometry in multi-view data"*](https://arxiv.org/abs/2408.12091), Arxiv, 2024 August 22.
+2. C. Gillon, C. Baker, R. Ly, E. Balzani, B. Brunton, M. Schottdorf, S. Ghosh, N. Dehghani: [*"ODIN: Open Data In Neurophysiology: Advancements, Solutions & Challenges"*](https://arxiv.org/abs/2407.00976), Arxiv, 2024 July 1.
 1. L.S. Brown, J.R. Cho, S.S. Bolkan, E.H. Nieh, M. Schottdorf, D.W. Tank, C.D. Brody, I.B. Witten, M.S. Goldman: [*"Neural circuit models for evidence accumulation through choice-selective sequences"*](https://www.biorxiv.org/content/10.1101/2023.09.01.555612v4), BioRxiv, 2024 Feb 19. 
 {: style="text-align: left; font-size:.9em;"}
 
 # Journal articles
 {: style="text-align: left; font-size:1.5em;"}
-
+13. M. Schottdorf, G. Yu, E.Y. Walker: [*"Data science and its future in large neuroscience collaborations"*](https://www.biorxiv.org/content/10.1101/2024.03.20.585936v1), Neuron: in press. (2024)
 12. J. LaChance\*, M. Schottdorf\*, T. J. Zajdel, J. L. Saunders, S. Dvali, C. Marshall, L. Seirup, I. Sammour, R. L. Chatburn, D. A. Notterman, D. J. Cohen: [*"PVP1–The People’s Ventilator Project: A fully
 open, low-cost, pressure-controlled ventilator research platform compatible with adult and pediatric uses"*](https://doi.org/10.1371/journal.pone.0266810), PLoS ONE 17(5): e0266810 (2022)
 11. D. Suo, U. Ghai, E. Minasyan, P. Gradu, X. Chen, N. Agarwal, C. Zhang, K. Singh, J. LaChance, T. Zajdel, M. Schottdorf, D. Cohen, E. Hazan: [*"Machine Learning for Medical Ventilator Control"*](https://arxiv.org/abs/2102.06779), Machine Learning for Health (ML4H), available on arXiv: 2102.06779 (2022)
