@@ -9,7 +9,7 @@ header:
 excerpt: " "
 feature_row:
   - image_path: /assets/images/hpc_manifold.jpg
-    title: "Hippocampal neural manifolds"
+    title: "Abstract knowledge"
     excerpt: "Hippocampus can combine physical and abstract variables into the same cognitive map, instantiated as a neural manifold."
     url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9549979/"
     btn_label: "Nieh*, Schottdorf* et al. Nature 2021"
