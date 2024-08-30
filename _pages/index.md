@@ -27,10 +27,11 @@ feature_row:
     btn_label: "Schottdorf et al. PLOS CB 2015"
     btn_class: "btn--secondary"
 ---
-{: style="text-align: left; font-size:1.5em;"}
+
 The brain is the last and grandest biological frontier, the most complex thing we have yet discovered in our universe. It is where decision making happens. Psychology exists, in large part, to help us understand what is behind our decisions. The Schottdorf Laboratory’s mission is to link the psychology of decision making to cellular phenomena at a micro level. To do so, we use animal models.<br/><br/> Animals, too, are capable of amazing feats of perception, reasoning and planning. If you ever had mice in your kitchen, you will know what we are talking about. How do they do that? And how are these processes instantiated by the coordinated activity of single neurons?<br/><br/>
 We persue this question with mice that learn to solve complex problems in virtual reality (VR). With the assistance of our furry colleages, we meld the sciences of animal behavior in VR, neurophysiology, computation, and artificial intelligence to explore the neural computations underlying perception. Welcome to the Schottdorf Laboratory! <br/><br/> 
 <center><b>We are recruiting graduate students. Contact Manuel if you are interested in joining the lab!</b></center>
+{: style="text-align: left; font-size:.9em;"}
 
 {% include feature_row id="feature_row_left" type="left" %}
 
