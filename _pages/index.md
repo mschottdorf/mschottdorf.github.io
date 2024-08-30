@@ -15,8 +15,8 @@ feature_row:
     btn_label: "Nieh*, Schottdorf* et al. Nature 2021"
     btn_class: "btn--secondary"
   - image_path: /assets/images/primate_ret.jpg
-    title: "Primate visual processing"
-    excerpt: "Retinal responses to natural scenes in macaque monkeys are primarily driven by temporal variations though eye movements and gaze shifts."
+    title: "Early visual processing"
+    excerpt: "Retinal responses to natural scenes are primarily driven by temporal variations though eye movements and gaze shifts."
     url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8998785/"
     btn_label: "Schottdorf & Lee J Phys 2021"
     btn_class: "btn--secondary"
