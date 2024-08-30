@@ -4,7 +4,7 @@ layout: splash
 permalink: /publications/
 header:
   overlay_color: "#000"
-  overlay_filter: "0.8"
+  overlay_filter: "0.66"
   overlay_image: /assets/splash/brain4.jpg
   actions:
     - label: "Google scholar"
