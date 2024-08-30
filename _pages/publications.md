@@ -3,9 +3,9 @@ title: "Publications"
 layout: splash
 permalink: /publications/
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.3"
-  overlay_image: /assets/splash/brain4.jpg
+  overlay_color: "#FFF"
+  overlay_filter: "0"
+  overlay_image: /assets/splash/brain3a.jpg
   actions:
     - label: "Google scholar"
       url: "https://scholar.google.de/citations?user=m2d7JVwAAAAJ&hl=en"
