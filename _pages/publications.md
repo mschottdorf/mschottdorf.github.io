@@ -15,16 +15,16 @@ header:
 
 # Preprints
 {: style="text-align: left; font-size:1.5em;"}
-3. S. Koukuntla, J.B. Julian, J.C. Kaminsky, M. Schottdorf, D.W. Tank, C.D. Brody, A.S. Charles: [*"Unsupervised discovery of the shared and private geometry in multi-view data"*](https://arxiv.org/abs/2408.12091), Arxiv, 2024 August 22.
+4. M. Schottdorf, P.D. Rich, E.M. Diamanti, A. Lin, S. Tafazoli, E.H. Nieh, S.Y. Thiberge: [*"TWINKLE: An open-source two-photon microscope for teaching and research"*](https://www.biorxiv.org/content/10.1101/2024.09.23.612766v1), BioRxiv, 2024 Sept 23.
+3. S. Koukuntla, J.B. Julian, J.C. Kaminsky, M. Schottdorf, D.W. Tank, C.D. Brody, A.S. Charles: [*"Unsupervised discovery of the shared and private geometry in multi-view data"*](https://arxiv.org/abs/2408.12091), Arxiv, 2024 Aug 22.
 2. C. Gillon, C. Baker, R. Ly, E. Balzani, B. Brunton, M. Schottdorf, S. Ghosh, N. Dehghani: [*"ODIN: Open Data In Neurophysiology: Advancements, Solutions & Challenges"*](https://arxiv.org/abs/2407.00976), Arxiv, 2024 July 1.
 1. L.S. Brown, J.R. Cho, S.S. Bolkan, E.H. Nieh, M. Schottdorf, D.W. Tank, C.D. Brody, I.B. Witten, M.S. Goldman: [*"Neural circuit models for evidence accumulation through choice-selective sequences"*](https://www.biorxiv.org/content/10.1101/2023.09.01.555612v4), BioRxiv, 2024 Feb 19. 
 {: style="text-align: left; font-size:.9em;"}
 
 # Journal articles
 {: style="text-align: left; font-size:1.5em;"}
-13. M. Schottdorf, G. Yu, E.Y. Walker: [*"Data science and its future in large neuroscience collaborations"*](https://www.biorxiv.org/content/10.1101/2024.03.20.585936v1), Neuron: in press. (2024)
-12. J. LaChance\*, M. Schottdorf\*, T.J. Zajdel, J.L. Saunders, S. Dvali, C. Marshall, L. Seirup, I. Sammour, R.L. Chatburn, D.A. Notterman, D.J. Cohen: [*"PVP1–The People’s Ventilator Project: A fully
-open, low-cost, pressure-controlled ventilator research platform compatible with adult and pediatric uses"*](https://doi.org/10.1371/journal.pone.0266810), PLoS ONE 17(5): e0266810 (2022)
+13. M. Schottdorf, G. Yu, E.Y. Walker: [*"Data science and its future in large neuroscience collaborations"*](https://www.biorxiv.org/content/10.1101/2024.03.20.585936v1), Neuron 112(18): 3007-3012 (2024)
+12. J. LaChance\*, M. Schottdorf\*, T.J. Zajdel, J.L. Saunders, S. Dvali, C. Marshall, L. Seirup, I. Sammour, R.L. Chatburn, D.A. Notterman, D.J. Cohen: [*"PVP1–The People’s Ventilator Project: A fully open, low-cost, pressure-controlled ventilator research platform compatible with adult and pediatric uses"*](https://doi.org/10.1371/journal.pone.0266810), PLoS ONE 17(5): e0266810 (2022)
 11. D. Suo, U. Ghai, E. Minasyan, P. Gradu, X. Chen, N. Agarwal, C. Zhang, K. Singh, J. LaChance, T. Zajdel, M. Schottdorf, D. Cohen, E. Hazan: [*"Machine Learning for Medical Ventilator Control"*](https://arxiv.org/abs/2102.06779), Machine Learning for Health (ML4H), available on arXiv: 2102.06779 (2022)
 10. E.H. Nieh\*, M. Schottdorf\*, N. Freeman, R. Low, S. Lewallen, S.-A. Koay, L. Pinto, J. Gauthier, C.D. Brody, D.W. Tank: [*"Geometry of abstract learned knowledge in the hippocampus"*](https://www.nature.com/articles/s41586-021-03652-7), Nature 595: 80-84 (2021)
 9. M. Schottdorf, B.B. Lee: [*"A quantitative description of macaque ganglion cell responses to natural scenes: the interplay of time and space"*](https://physoc.onlinelibrary.wiley.com/doi/abs/10.1113/JP281200), J. Physiology 599: 3169-3193 (2021)
