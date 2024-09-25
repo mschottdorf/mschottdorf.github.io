@@ -23,7 +23,7 @@ header:
 
 # Journal articles
 {: style="text-align: left; font-size:1.5em;"}
-13. M. Schottdorf, G. Yu, E.Y. Walker: [*"Data science and its future in large neuroscience collaborations"*](https://www.biorxiv.org/content/10.1101/2024.03.20.585936v1), Neuron 112(18): 3007-3012 (2024)
+13. M. Schottdorf, G. Yu, E.Y. Walker: [*"Data science and its future in large neuroscience collaborations"*](https://www.sciencedirect.com/science/article/pii/S089662732400641X), Neuron 112(18): 3007-3012 (2024)
 12. J. LaChance\*, M. Schottdorf\*, T.J. Zajdel, J.L. Saunders, S. Dvali, C. Marshall, L. Seirup, I. Sammour, R.L. Chatburn, D.A. Notterman, D.J. Cohen: [*"PVP1–The People’s Ventilator Project: A fully open, low-cost, pressure-controlled ventilator research platform compatible with adult and pediatric uses"*](https://doi.org/10.1371/journal.pone.0266810), PLoS ONE 17(5): e0266810 (2022)
 11. D. Suo, U. Ghai, E. Minasyan, P. Gradu, X. Chen, N. Agarwal, C. Zhang, K. Singh, J. LaChance, T. Zajdel, M. Schottdorf, D. Cohen, E. Hazan: [*"Machine Learning for Medical Ventilator Control"*](https://arxiv.org/abs/2102.06779), Machine Learning for Health (ML4H), available on arXiv: 2102.06779 (2022)
 10. E.H. Nieh\*, M. Schottdorf\*, N. Freeman, R. Low, S. Lewallen, S.-A. Koay, L. Pinto, J. Gauthier, C.D. Brody, D.W. Tank: [*"Geometry of abstract learned knowledge in the hippocampus"*](https://www.nature.com/articles/s41586-021-03652-7), Nature 595: 80-84 (2021)
