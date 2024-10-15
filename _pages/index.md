@@ -33,7 +33,7 @@ feature_row:
 The brain is the last and grandest biological frontier, the most complex thing we have yet discovered in our universe. It is where perception, reasoning and planning happens. Our mission is to link the psychology of these mental capacities to cellular phenomena at a micro level. To do so, we use animal models.<br/><br/> Animals, too, are capable of amazing feats of perception, reasoning and planning. If you ever had mice in your kitchen, you will know what we are talking about. How do they do that? And how are these processes instantiated by the coordinated activity of single neurons?<br/><br/>
 We pursue this question with mice that learn to solve complex problems in virtual reality (VR). With the assistance of our furry colleges, we meld the sciences of animal behavior in VR, neurophysiology, computation, and artificial intelligence to explore the neural computations underlying perception.
 {: style="text-align: left; font-size:0.8em;"}
-<b>We are recruiting graduate students. Please contact <a href="mailto:maschott-at-udel.edu">Manuel</a> if you want to join the lab.</b>
+<b>We are recruiting graduate students. You should apply either through the UD Department of Psychological and Brain Science's [website](https://www.udel.edu/academics/colleges/cas/units/departments/psychological-and-brain-sciences/), or the UD Interdisciplinary [Neuroscience Graduate program](https://www.udel.edu/academics/colleges/grad/prospective-students/programs/interdisciplinary/interdisciplinary-neuroscience/). Please feel free to also reach out to <a href="mailto:maschott-at-udel.edu">Manuel</a> about possibilities.</b>
 {: style="text-align: center; font-size:0.9em;"}
 {% include feature_row id="feature_row_left" type="left" %}
 <b> Key publications </b>
