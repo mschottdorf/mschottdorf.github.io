@@ -18,12 +18,18 @@ suhyeong:
 mubariz:
   - image_path: /assets/team/2025_7_mubariz.jpg
     title: "Mubariz Mohammed"
-    excerpt: "Mubariz began his academic journey in computer science before pivoting toward healthcare research during his master’s in Computational Data Science at UC Riverside. His work focuses on bridging machine learning and biology, with particular interest in building equitable, interpretable models in healthcare and genomics. Mubariz’s multicultural upbringing informs a research philosophy rooted in equity, curiosity, and a deep appreciation for how diverse lived experiences intersect with data and health outcomes. Beyond research, Mubariz enjoys reconnecting with nature through hiking, travelling and exploring new cuisines."  
+    excerpt: "Mubariz began his academic journey in computer science before pivoting toward healthcare research during his master’s in Computational Data Science at UC Riverside. His work focuses on bridging machine learning and biology, with particular interest in building equitable, interpretable models in healthcare and genomics. Mubariz’s multicultural upbringing informs a research philosophy rooted in equity, curiosity, and a deep appreciation for how diverse lived experiences intersect with data and health outcomes. Beyond research, Mubariz enjoys reconnecting with nature through hiking, travelling and exploring new cuisines."
+lindsey:
+  - image_path: /assets/team/2025_8_lindsey.jpg
+    title: "Lindsey Wang"
+    excerpt: "Lindsey is a Eugene DuPont Distinguished Scholar at UD, pursuing dual degrees in electrical engineering and applied mathematics. Her current research focuses on the performance of photomultiplier tubes, a critical component in advanced microscopy. Previously, she has developed image segmentation, registration, and alignment algorithms for large-scale drone-captured images of campus and microscopic lymph node image stacks alike. She hopes to strengthen her knowledge of two-photon microscopy systems to advance various modalities of biomedical imaging while pursuing her Ph.D. In addition to scientific endeavors, Lindsey speaks three languages, plays music, and enjoys going to the gym."  
 ---
 # PI
 {% include feature_row id="manuel" type="left" %}
 # The team
 {% include feature_row id="suhyeong" type="left" %}
 {% include feature_row id="mubariz" type="left" %}
+{% include feature_row id="lindsey" type="left" %}
+
 <!-- {% include feature_row %} -->
 
