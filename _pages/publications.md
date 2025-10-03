@@ -15,10 +15,13 @@ header:
 
 # Preprints
 {: style="text-align: left; font-size:1.5em;"}
-3. L. Phan et al. : [*"Humanity's Last Exam"*](https://arxiv.org/abs/2501.14249), Arxiv, 2025 Apr 11.
-3. S. Koukuntla, J.B. Julian, J.C. Kaminsky, M. Schottdorf, D.W. Tank, C.D. Brody, A.S. Charles: [*"Unsupervised discovery of the shared and private geometry in multi-view data"*](https://arxiv.org/abs/2408.12091), Arxiv, 2024 Aug 22.
-2. C. Gillon, C. Baker, R. Ly, E. Balzani, B. Brunton, M. Schottdorf, S. Ghosh, N. Dehghani: [*"ODIN: Open Data In Neurophysiology: Advancements, Solutions & Challenges"*](https://arxiv.org/abs/2407.00976), Arxiv, 2024 July 1.
-1. L.S. Brown, J.R. Cho, S.S. Bolkan, E.H. Nieh, M. Schottdorf, D.W. Tank, C.D. Brody, I.B. Witten, M.S. Goldman: [*"Neural circuit models for evidence accumulation through choice-selective sequences"*](https://www.biorxiv.org/content/10.1101/2023.09.01.555612v4), BioRxiv, 2024 Feb 19. 
+7. E.M. Diamanti, L. Pinto, M. Schottdorf, A.A. Russo, S.Y. Thiberge, C.D. Brody, D.W. Tank: [*"Working memory expands shared task representations in cortex"*](https://www.biorxiv.org/content/10.1101/2025.09.29.679345v1), BioRxiv, 2025.
+6. M. Schottdorf, S. Michelmann: [*"Canonical Representational Mapping for Cognitive Neuroscience"*](https://www.biorxiv.org/content/10.1101/2025.09.01.673485v1), BioRxiv, 2025.
+5. J. Cho*, S. Bolkan* et al. : [*"Striatal pathways oppositely shift cortical activity along the decision axis"*](https://www.biorxiv.org/content/10.1101/2025.07.29.667406v1), BioRxiv, 2025.
+4. L. Phan et al. : [*"Humanity's Last Exam"*](https://arxiv.org/abs/2501.14249), Arxiv, 2025.
+3. S. Koukuntla, J.B. Julian, J.C. Kaminsky, M. Schottdorf, D.W. Tank, C.D. Brody, A.S. Charles: [*"Unsupervised discovery of the shared and private geometry in multi-view data"*](https://arxiv.org/abs/2408.12091), Arxiv, 2024.
+2. L.S. Brown, J.R. Cho, S.S. Bolkan, E.H. Nieh, M. Schottdorf, D.W. Tank, C.D. Brody, I.B. Witten, M.S. Goldman: [*"Neural circuit models for evidence accumulation through choice-selective sequences"*](https://www.biorxiv.org/content/10.1101/2023.09.01.555612v4), BioRxiv, 2024.
+1. C. Gillon, C. Baker, R. Ly, E. Balzani, B. Brunton, M. Schottdorf, S. Ghosh, N. Dehghani: [*"ODIN: Open Data In Neurophysiology: Advancements, Solutions & Challenges"*](https://arxiv.org/abs/2407.00976), Arxiv, 2024.
 {: style="text-align: left; font-size:.9em;"}
 
 # Journal articles
