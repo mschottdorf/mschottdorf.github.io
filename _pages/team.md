@@ -19,6 +19,10 @@ mubariz:
   - image_path: /assets/team/2025_7_mubariz.jpg
     title: "Mubariz Mohammed"
     excerpt: "Mubariz began his academic journey in computer science before pivoting toward healthcare research during his master’s in Computational Data Science at UC Riverside. His work focuses on bridging machine learning and biology, with particular interest in building equitable, interpretable models in healthcare and genomics. Mubariz’s multicultural upbringing informs a research philosophy rooted in equity, curiosity, and a deep appreciation for how diverse lived experiences intersect with data and health outcomes. Beyond research, Mubariz enjoys reconnecting with nature through hiking, travelling and exploring new cuisines."
+kathleen:
+  - image_path: /assets/team/2025_11_kathleen.jpg
+    title: "Kathleen Higgins"
+    excerpt: "Kathleen is an Honors dual-degree student in Computer Science and Political Science at the University of Delaware. At Schottdorf Lab, her research focuses on developing an Ordinary Differential Equation Variational Autoencoder (ODE-VAE) to model smooth latent dynamics on low-dimensional neural manifolds and reconstruct neuron firing patterns from calcium imaging data. She is also a researcher at the Sensify Lab, where she conducts human-computer interaction research on misinformation, examining how AI models conceptualize polarizing language in news media. Beyond her research, Kathleen is a coxswain on the University of Delaware’s Division I Women’s Rowing Team, plays jazz piano, and loves board games."  
 lindsey:
   - image_path: /assets/team/2025_8_lindsey.jpg
     title: "Lindsey Wang"
@@ -29,6 +33,7 @@ lindsey:
 # The team
 {% include feature_row id="suhyeong" type="left" %}
 {% include feature_row id="mubariz" type="left" %}
+{% include feature_row id="kathleen" type="left" %}
 {% include feature_row id="lindsey" type="left" %}
 
 <!-- {% include feature_row %} -->
