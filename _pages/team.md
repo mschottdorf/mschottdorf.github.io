@@ -30,11 +30,15 @@ lindsey:
 ---
 # PI
 {% include feature_row id="manuel" type="left" %}
+
 # The team
-{% include feature_row id="suhyeong" type="left" %}
 {% include feature_row id="mubariz" type="left" %}
 {% include feature_row id="kathleen" type="left" %}
 {% include feature_row id="lindsey" type="left" %}
+
+# Alums
+{: style="text-align: left; font-size:1.5em;"}
+Dr. SuHyeong Kim, Ph.D. Now with Blackrock Neurotech as a Translational R&D Engineer.
 
 <!-- {% include feature_row %} -->
 

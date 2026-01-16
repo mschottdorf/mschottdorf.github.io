@@ -21,6 +21,7 @@ header:
 
 # Data
 {: style="text-align: left; font-size:1.5em;"}
+3. Neurophysiology data in the accumulating towers task: [Anterior cingulate cortex (ACC), dorsomedial striatum (DMS), and hippocampus (HPC) data](https://doi.org/10.6084/m9.figshare.30921038).
 2. Retinal responses to natural scenes: [Macaque retinal ganglion cell responses to natural movies in vivo](https://doi.gin.g-node.org/10.12751/g-node.xage77).
 1. Maps of evoked sensory responses in visual cortex: [A dataset of 151 visual cortical orientation preference maps from four species](https://doi.org/10.12751/g-node.b4820c).
 {: style="text-align: left; font-size:.9em;"}
