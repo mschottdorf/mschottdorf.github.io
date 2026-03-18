@@ -19,12 +19,12 @@ header:
 4. M. Schottdorf, S. Michelmann: [*"Canonical Representational Mapping for Cognitive Neuroscience"*](https://www.biorxiv.org/content/10.1101/2025.09.01.673485v1), BioRxiv, 2025.
 3. J. Cho*, S. Bolkan* et al. : [*"Striatal pathways oppositely shift cortical activity along the decision axis"*](https://www.biorxiv.org/content/10.1101/2025.07.29.667406v1), BioRxiv, 2025.
 2. S. Koukuntla, J.B. Julian, J.C. Kaminsky, M. Schottdorf, D.W. Tank, C.D. Brody, A.S. Charles: [*"Unsupervised discovery of the shared and private geometry in multi-view data"*](https://arxiv.org/abs/2408.12091), Arxiv, 2024.
-1. L.S. Brown, J.R. Cho, S.S. Bolkan, E.H. Nieh, M. Schottdorf, D.W. Tank, C.D. Brody, I.B. Witten, M.S. Goldman: [*"Neural circuit models for evidence accumulation through choice-selective sequences"*](https://www.biorxiv.org/content/10.1101/2023.09.01.555612v4), BioRxiv, 2024.
 
 {: style="text-align: left; font-size:.9em;"}
 
 # Journal articles
 {: style="text-align: left; font-size:1.5em;"}
+17. L.S. Brown, J.R. Cho, S.S. Bolkan, E.H. Nieh, M. Schottdorf, D.W. Tank, C.D. Brody, I.B. Witten, M.S. Goldman: [*"Neural circuit models for evidence accumulation through choice-selective sequences"*](https://www.nature.com/articles/s41467-026-70267-9), Nature Communications (2026).
 16. Center for AI Safety et al. : [*"A benchmark of expert-level academic questions to assess AI capabilities"*](https://doi.org/10.1038/s41586-025-09962-4), Nature 649: 1139–1146 (2026). 
 15. C. Gillon, C. Baker, R. Ly, E. Balzani, B. Brunton, M. Schottdorf, S. Ghosh, N. Dehghani: [*"ODIN: Open Data In Neurophysiology: Advancements, Solutions & Challenges"*](https://www.eneuro.org/content/12/11/ENEURO.0486-24.2025), eNeuro 12(11) (2025).
 14. M. Schottdorf, P.D. Rich, E.M. Diamanti, A. Lin, S. Tafazoli, E.H. Nieh, S.Y. Thiberge: [*"TWINKLE: An open-source two-photon microscope for teaching and research"*](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318924), PLOS ONE 20(2): e0318924 (2025)
