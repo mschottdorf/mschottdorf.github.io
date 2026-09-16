@@ -15,6 +15,7 @@ header:
 
 # Preprints
 {: style="text-align: left; font-size:1.5em;"}
+6. M. Schottdorf, C. Brody, D.W. Tank: [*"The geometry of knowledge in the hippocampal-prefrontal system"*](https://www.biorxiv.org/content/10.64898/2026.08.19.745564v1), BioRxiv, 2026.
 5. E.M. Diamanti, L. Pinto, M. Schottdorf, A.A. Russo, S.Y. Thiberge, C.D. Brody, D.W. Tank: [*"Working memory expands shared task representations in cortex"*](https://www.biorxiv.org/content/10.1101/2025.09.29.679345v1), BioRxiv, 2025.
 4. M. Schottdorf, S. Michelmann: [*"Canonical Representational Mapping for Cognitive Neuroscience"*](https://www.biorxiv.org/content/10.1101/2025.09.01.673485v1), BioRxiv, 2025.
 3. J. Cho*, S. Bolkan* et al. : [*"Striatal pathways oppositely shift cortical activity along the decision axis"*](https://www.biorxiv.org/content/10.1101/2025.07.29.667406v1), BioRxiv, 2025.
