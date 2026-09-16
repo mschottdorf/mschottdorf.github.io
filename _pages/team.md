@@ -11,7 +11,7 @@ Manuel:
     title: "Manuel Schottdorf, Ph.D."
     excerpt: "Manuel studied physics before completing a Ph.D. at Max Planck in Germany and a Postdoc at the Princeton Neuroscience Institute. He enjoys developing scientific instrumentation and won numerous awards over the years, among them a Boehringer Ingelheim Fonds PhD Fellowship, an Otto Hahn medal, and a Burroughs Wellcome Fund's Career Award. In addition to science, Manuel's interests include labor rights and he was an organizing committee member for the postdoc union at Princeton.&nbsp;&nbsp;&nbsp;&nbsp;Send Manuel an [e-mail](mailto:maschott-at-udel.edu)."
 Mubariz:
-  - image_path: /assets/team/2025_7_Mubariz.jpg
+  - image_path: /assets/team/2025_7_mubariz.jpg
     title: "Mubariz Mohammed"
     excerpt: "Mubariz is a second year PhD student in the lab. His research broadly focuses on visual processing and decision making in the mouse visual cortex. In the lab, he performs survival surgeries, including cranial window implantation and viral injections, and trains mice on virtual reality visual decision making tasks such as the Towers task. He also enjoys the technical side of neuroscience, including building, aligning, and working with two-photon microscopes, as well as developing and maintaining databases for behavioral and imaging experiments. He previously earned a Master’s degree in Computational Data Science from the University of California, Riverside. Outside the lab, Mubariz enjoys hiking and camping, exploring new cities and cuisines, and learning about different cultures."
 Ethan:
@@ -38,8 +38,8 @@ Ryan:
 
 # Alums
 {: style="text-align: left; font-size:1.5em;"}
-Dr. SuHyeong Kim, Ph.D. Now with Blackrock Neurotech as a Translational R&D Engineer.
-Kathleen Higgins, Now undergrad at Georgetown as a Goldwater Scholar.
+Dr. SuHyeong Kim, Ph.D. Now with Blackrock Neurotech as a Translational R&D Engineer.<br/><br/> 
+Kathleen Higgins, Now undergrad at Georgetown as a Goldwater Scholar.<br/><br/> 
 Lindsey Wang, Now graduate student at Northwestern U.
 
 <!-- {% include feature_row %} -->
